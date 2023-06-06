@@ -40,7 +40,7 @@ automated
     * **Line-45** to **Line-64** correspond to QUIC-enabled stream.
     * **Line-66** to **Line-82** correspond to QUIC-disabled stream.
 
-&emsp;&emsp;&emsp;You can comment/uncomment the appropriate lines based on your requirement.
+&emsp;&emsp;&emsp;You can comment/uncomment appropriate lines based on your requirement.
 
 5. Open **automate/run.sh** file and modify the following parameters:
   
