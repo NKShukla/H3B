@@ -1,0 +1,1 @@
+real_time (s),video_playback_time (s),video_quality,bitrate (kbps),stall_in_this_segment (s),bandwidth
