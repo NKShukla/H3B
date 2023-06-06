@@ -1,5 +1,4 @@
 # H3B Dataset: HTTP/3 supported Browser Dataset
-<a name="readme-top"></a>
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -13,6 +12,8 @@
     </li>
   </ul>
 </details>
+
+<embed src="H3B-architecture.pdf" type="application/pdf">
 
 ## Running the Experimental Setup
 
@@ -46,7 +47,7 @@ bash run.sh
 
 Follow these steps to run the experimental setup and manipulate the input parameters to obtain the desired output.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#h3b-dataset-http3-supported-browser-dataset">back to top</a>)</p>
 
 ## Retrieving QoE Parameters from Application Logs
 
@@ -91,4 +92,4 @@ This section provides step-by-step instructions on how to use the application lo
 
 Make sure to follow these steps to effectively retrieve the QoE parameters from the application logs.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#h3b-dataset-http3-supported-browser-dataset">back to top</a>)</p>
