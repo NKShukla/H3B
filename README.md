@@ -35,19 +35,26 @@ automated
 
 3. Open **automate/tcpdump_start.sh** and modify **Line-7** to specify the network interface that will be used to collect the network logs.
 
-4. Open **automate/run.sh** file and modify the following parameters:
+4. Open **automate/automate_chrome.sh** (or based on the browser preference). 
+
+    * **Line-45** to **Line-64** correspond to QUIC-enabled stream.
+    * **Line-66** to **Line-82** correspond to QUIC-disabled stream.
+
+&emsp;&emsp;&emsp;You can comment/uncomment the appropriate lines based on your requirement.
+
+5. Open **automate/run.sh** file and modify the following parameters:
   
     * **Line-6** sets the number of slots you want to run a video.
     * Comment/uncomment/add/remove **Lines-9** to **Line-11** based on your requirements.
     * Choose the browser (Chrome, Chromium, or Firefox) by running the corresponding script (e.g., automate_chrome.sh).
     * Select the desired bandwidth pattern (e.g., "dynamic-high.com-", "dynamic-low.com-", "64-256-64-inc.com-") or use one of the provided trace files (located in the **mahimahi-trace-files** folder).
 
-5. Once you have reviewed and adjusted the input parameters, open the terminal from the **automate** folder and run the following command to automatically run the setup and collect both application and network logs:
+6. Once you have reviewed and adjusted the input parameters, open the terminal from the **automate** folder and run the following command to automatically run the setup and collect both application and network logs:
 ```sh
 bash run.sh
 ```
 
-6. After running all the videos, you can find the network and application logs inside the **pcaps** and **logs-collected** folders, respectively.
+7. After running all the videos, you can find the network and application logs inside the **pcaps** and **logs-collected** folders, respectively.
 
 Follow these steps to run the experimental setup and manipulate the input parameters to obtain the desired output.
 
