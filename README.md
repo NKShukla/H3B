@@ -5,6 +5,9 @@
   <summary>Table of Contents</summary>
   <ul>
     <li>
+      <a href="#h3b-architecture">H3B Architecture</a>
+    </li>
+    <li>
       <a href="#running-the-experimental-setup">Running the Experimental Setup</a>
     </li>
     <li>
@@ -13,7 +16,8 @@
   </ul>
 </details>
 
-<embed src="H3B-architecture.pdf" type="application/pdf">
+## H3B Architecture
+![H3B-architecture](H3B-architecture.png)
 
 ## Running the Experimental Setup
 
