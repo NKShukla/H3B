@@ -9,11 +9,9 @@ mkdir -p data/mahimahi
 cd data/input || exit
 for FILE in *.pcap
 do
-    #file1=$FILE | cut -f 1 -d '.'
-    #IFS='.' read -ra file1 <<< "$FILE"
-    tshark -r "$FILE" -Y "tcp" -T fields -e frame.time_relative -e tcp.len  >> "../phase1/$FILE.csv"
-    # tshark -r $FILE -Y "quic or tcp" -T fields -e ip.proto -e tcp.len -e udp.length -e frame.time_relative >> $FILE.csv
-    # sed -i -e 1i'\protocol,tcp_bytes,quic_bytes,real_time' "$FILE".csv
+    # tshark -r "$FILE" -Y "tcp" -T fields -e frame.time_relative -e tcp.len  >> "../phase1/$FILE.csv"
+    tshark -r $FILE -Y "quic or tcp" -T fields -e ip.proto -e tcp.len -e udp.length -e frame.time_relative >> $FILE.csv
+    sed -i -e 1i'\protocol,tcp_bytes,quic_bytes,real_time' "$FILE".csv
 done
 
 
