@@ -72,18 +72,18 @@ This section provides step-by-step instructions on how to use the application lo
 │ ├── logFiles
 │ │ └── slot
 │ │ │ └── dynamic-very-low
-│ │ │ │ ├── tcp
-│ │ │ │ ├── quic
+│ │ │ │ ├── tcp---tcp_qoe
+│ │ │ │ ├── quic---quic_qoe
 │ ├── jsonFiles
 │ │ └── slot
 │ │ │ └── dynamic-very-low
-│ │ │ │ ├── tcp
-│ │ │ │ ├── quic
+│ │ │ │ ├── tcp---tcp_qoe
+│ │ │ │ ├── quic---quic_qoe
 │ └── csvFiles
 │ │ └── slot
 │ │ │ └── 64-256-64-inc
-│ │ │ │ ├── tcp_qoe
-│ │ │ │ ├── quic_qoe
+│ │ │ │ ├── tcp---tcp_qoe
+│ │ │ │ ├── quic---quic_qoe
 └── ...
 ```
 
