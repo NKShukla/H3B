@@ -98,7 +98,7 @@ This section provides step-by-step instructions on how to use the application lo
 ```
 .\scripts\get_json.py slot dynamic-very-low
 ```
-
+The raw application and network logs(pcaps) can be found [here][https://drive.google.com/drive/folders/1MsywvxEPOHagHO6JAQ9FPTGLHV17t638?usp=sharing] 
 **NOTE:** We have added both **tcp** and **quic** QoE files inside the **application-logs-qoe** collected over 5 geographical locations under **dynamic-high**, **dynamic-low** and **dynamic-very-low**. 
 
 Make sure to follow these steps to effectively retrieve the QoE parameters from the application logs.
