@@ -1,0 +1,77 @@
+[11036:11174:0612/235644.368414:WARNING:external_pref_loader.cc(331)] You are using an old-style extension deployment method (external_extensions.json), which will soon be deprecated. (see http://developer.chrome.com/extensions/external_extensions.html)
+[11036:11036:0612/235644.402112:WARNING:browser_main_loop.cc(271)] <unknown>: Couldn't connect to accessibility bus: Failed to connect to socket /tmp/dbus-dFfPsrHgGH: Connection refused
+[11036:11148:0612/235644.611980:ERROR:bus.cc(393)] Failed to connect to the bus: Failed to connect to socket /tmp/dbus-2lVZNLwzSX: Connection refused
+[11036:11148:0612/235644.612092:ERROR:bus.cc(393)] Failed to connect to the bus: Failed to connect to socket /tmp/dbus-2lVZNLwzSX: Connection refused
+[11036:11148:0612/235644.612138:ERROR:bus.cc(393)] Failed to connect to the bus: Failed to connect to socket /tmp/dbus-2lVZNLwzSX: Connection refused
+[11036:11148:0612/235644.612160:ERROR:bus.cc(393)] Failed to connect to the bus: Failed to connect to socket /tmp/dbus-2lVZNLwzSX: Connection refused
+[11036:11036:0612/235646.373042:INFO:CONSOLE(0)] "Error in event handler: TypeError: Cannot read property 'postMessage' of undefined
+    at logFunc (chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/background.js:11:14)
+    at chrome.webRequest.onBeforeRequest.addListener.urls (chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/background.js:16:15)", source: chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/_generated_background_page.html (0)
+[11036:11036:0612/235646.373094:INFO:CONSOLE(0)] "Error in event handler: TypeError: Cannot read property 'postMessage' of undefined
+    at logFunc (chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/background.js:11:14)
+    at chrome.webRequest.onSendHeaders.addListener.urls (chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/background.js:28:15)", source: chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/_generated_background_page.html (0)
+[11036:11036:0612/235646.403607:INFO:CONSOLE(0)] "Error in event handler: TypeError: Cannot read property 'postMessage' of undefined
+    at logFunc (chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/background.js:11:14)
+    at chrome.webRequest.onBeforeRequest.addListener.urls (chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/background.js:16:15)", source: chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/_generated_background_page.html (0)
+[11036:11036:0612/235646.403658:INFO:CONSOLE(0)] "Error in event handler: TypeError: Cannot read property 'postMessage' of undefined
+    at logFunc (chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/background.js:11:14)
+    at chrome.webRequest.onSendHeaders.addListener.urls (chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/background.js:28:15)", source: chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/_generated_background_page.html (0)
+[11036:11036:0612/235646.423469:INFO:CONSOLE(0)] "Error in event handler: TypeError: Cannot read property 'postMessage' of undefined
+    at logFunc (chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/background.js:11:14)
+    at chrome.webRequest.onBeforeRequest.addListener.urls (chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/background.js:16:15)", source: chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/_generated_background_page.html (0)
+[11036:11036:0612/235646.424124:INFO:CONSOLE(0)] "Error in event handler: TypeError: Cannot read property 'postMessage' of undefined
+    at logFunc (chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/background.js:11:14)
+    at chrome.webRequest.onSendHeaders.addListener.urls (chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/background.js:28:15)", source: chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/_generated_background_page.html (0)
+[11036:11036:0612/235646.426926:INFO:CONSOLE(128)] "Uncaught (in promise) Error: Could not establish connection. Receiving end does not exist.", source: chrome-extension://nehjjjagpkhikejmlaiffhpgaiphilng/polyfill.js (128)
+[11036:11036:0612/235646.427425:INFO:CONSOLE(128)] "Uncaught (in promise) Error: Could not establish connection. Receiving end does not exist.", source: chrome-extension://nehjjjagpkhikejmlaiffhpgaiphilng/polyfill.js (128)
+[11036:11036:0612/235647.284182:INFO:CONSOLE(0)] "Error in event handler: TypeError: Cannot read property 'postMessage' of undefined
+    at logFunc (chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/background.js:11:14)
+    at chrome.webRequest.onBeforeRequest.addListener.urls (chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/background.js:16:15)", source: chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/_generated_background_page.html (0)
+[11036:11036:0612/235647.284225:INFO:CONSOLE(0)] "Error in event handler: TypeError: Cannot read property 'postMessage' of undefined
+    at logFunc (chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/background.js:11:14)
+    at chrome.webRequest.onSendHeaders.addListener.urls (chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/background.js:28:15)", source: chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/_generated_background_page.html (0)
+[11036:11036:0612/235647.284248:INFO:CONSOLE(0)] "Error in event handler: TypeError: Cannot read property 'postMessage' of undefined
+    at logFunc (chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/background.js:11:14)
+    at chrome.webRequest.onBeforeRequest.addListener.urls (chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/background.js:16:15)", source: chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/_generated_background_page.html (0)
+[11036:11036:0612/235647.284269:INFO:CONSOLE(0)] "Error in event handler: TypeError: Cannot read property 'postMessage' of undefined
+    at logFunc (chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/background.js:11:14)
+    at chrome.webRequest.onSendHeaders.addListener.urls (chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/background.js:28:15)", source: chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/_generated_background_page.html (0)
+[11036:11036:0612/235647.284289:INFO:CONSOLE(0)] "Error in event handler: TypeError: Cannot read property 'postMessage' of undefined
+    at logFunc (chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/background.js:11:14)
+    at chrome.webRequest.onBeforeRequest.addListener.urls (chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/background.js:16:15)", source: chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/_generated_background_page.html (0)
+[11036:11036:0612/235647.284309:INFO:CONSOLE(0)] "Error in event handler: TypeError: Cannot read property 'postMessage' of undefined
+    at logFunc (chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/background.js:11:14)
+    at chrome.webRequest.onSendHeaders.addListener.urls (chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/background.js:28:15)", source: chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/_generated_background_page.html (0)
+[11036:11036:0612/235647.295672:INFO:CONSOLE(0)] "Error in event handler: TypeError: Cannot read property 'postMessage' of undefined
+    at logFunc (chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/background.js:11:14)
+    at chrome.webRequest.onResponseStarted.addListener.urls (chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/background.js:22:15)", source: chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/_generated_background_page.html (0)
+[11036:11036:0612/235648.739153:INFO:CONSOLE(0)] "Error in event handler: TypeError: Cannot read property 'postMessage' of undefined
+    at logFunc (chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/background.js:11:14)
+    at chrome.webRequest.onResponseStarted.addListener.urls (chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/background.js:22:15)", source: chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/_generated_background_page.html (0)
+[11036:11036:0612/235648.739273:INFO:CONSOLE(0)] "Error in event handler: TypeError: Cannot read property 'postMessage' of undefined
+    at logFunc (chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/background.js:11:14)
+    at chrome.webRequest.onCompleted.addListener.urls (chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/background.js:34:15)", source: chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/_generated_background_page.html (0)
+[11036:11036:0612/235650.643000:INFO:CONSOLE(0)] "Error in event handler: TypeError: Cannot read property 'postMessage' of undefined
+    at logFunc (chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/background.js:11:14)
+    at chrome.webRequest.onResponseStarted.addListener.urls (chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/background.js:22:15)", source: chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/_generated_background_page.html (0)
+[11036:11036:0612/235650.860165:INFO:CONSOLE(0)] "Error in event handler: TypeError: Cannot read property 'postMessage' of undefined
+    at logFunc (chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/background.js:11:14)
+    at chrome.webRequest.onResponseStarted.addListener.urls (chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/background.js:22:15)", source: chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/_generated_background_page.html (0)
+[11036:11036:0612/235651.347188:INFO:CONSOLE(0)] "Error in event handler: TypeError: Cannot read property 'postMessage' of undefined
+    at logFunc (chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/background.js:11:14)
+    at chrome.webRequest.onCompleted.addListener.urls (chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/background.js:34:15)", source: chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/_generated_background_page.html (0)
+[11036:11036:0612/235652.495785:INFO:CONSOLE(0)] "Error in event handler: TypeError: Cannot read property 'postMessage' of undefined
+    at logFunc (chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/background.js:11:14)
+    at chrome.webRequest.onResponseStarted.addListener.urls (chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/background.js:22:15)", source: chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/_generated_background_page.html (0)
+[11036:11036:0612/235652.931632:INFO:CONSOLE(0)] "Error in event handler: TypeError: Cannot read property 'postMessage' of undefined
+    at logFunc (chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/background.js:11:14)
+    at chrome.webRequest.onCompleted.addListener.urls (chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/background.js:34:15)", source: chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/_generated_background_page.html (0)
+[11036:11036:0612/235654.567811:INFO:CONSOLE(0)] "Error in event handler: TypeError: Cannot read property 'postMessage' of undefined
+    at logFunc (chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/background.js:11:14)
+    at chrome.webRequest.onCompleted.addListener.urls (chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/background.js:34:15)", source: chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/_generated_background_page.html (0)
+[11036:11036:0612/235700.308409:INFO:CONSOLE(0)] "Error in event handler: TypeError: Cannot read property 'postMessage' of undefined
+    at logFunc (chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/background.js:11:14)
+    at chrome.webRequest.onBeforeRequest.addListener.urls (chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/background.js:16:15)", source: chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/_generated_background_page.html (0)
+[11036:11036:0612/235700.308453:INFO:CONSOLE(0)] "Error in event handler: TypeError: Cannot read property 'postMessage' of undefined
+    at logFunc (chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/background.js:11:14)
+    at chrome.webRequest.onSendHeaders.addListener.urls (chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/background.js:28:15)", source: chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/_generated_background_page.html (0)
