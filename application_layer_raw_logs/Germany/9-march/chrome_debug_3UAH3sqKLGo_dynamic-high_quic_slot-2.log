@@ -1,0 +1,58 @@
+[4029:4029:0228/105954.051799:ERROR:angle_platform_impl.cc(44)] Display.cpp:894 (initialize): ANGLE Display::initialize error 12289: GLX is not present.
+[4029:4029:0228/105954.052741:ERROR:gl_surface_egl.cc(780)] EGL Driver message (Critical) eglInitialize: GLX is not present.
+[4029:4029:0228/105954.053993:ERROR:gl_surface_egl.cc(1375)] eglInitialize OpenGL failed with error EGL_NOT_INITIALIZED, trying next display type
+[4029:4029:0228/105954.054302:ERROR:angle_platform_impl.cc(44)] Display.cpp:894 (initialize): ANGLE Display::initialize error 12289: GLX is not present.
+[4029:4029:0228/105954.054870:ERROR:gl_surface_egl.cc(780)] EGL Driver message (Critical) eglInitialize: GLX is not present.
+[4029:4029:0228/105954.054952:ERROR:gl_surface_egl.cc(1375)] eglInitialize OpenGLES failed with error EGL_NOT_INITIALIZED
+[4029:4029:0228/105954.055003:ERROR:gl_ozone_egl.cc(20)] GLSurfaceEGL::InitializeOneOff failed.
+[4029:4029:0228/105954.063420:ERROR:viz_main_impl.cc(161)] Exiting GPU process due to errors during initialization
+[3988:4030:0228/105954.131545:WARNING:external_pref_loader.cc(331)] You are using an old-style extension deployment method (external_extensions.json), which will soon be deprecated. (see http://developer.chrome.com/extensions/external_extensions.html)
+[4088:4088:0228/105954.281071:ERROR:angle_platform_impl.cc(44)] Display.cpp:894 (initialize): ANGLE Display::initialize error 12289: GLX is not present.
+[4088:4088:0228/105954.281261:ERROR:gl_surface_egl.cc(780)] EGL Driver message (Critical) eglInitialize: GLX is not present.
+[4088:4088:0228/105954.281321:ERROR:gl_surface_egl.cc(1375)] eglInitialize OpenGL failed with error EGL_NOT_INITIALIZED, trying next display type
+[4088:4088:0228/105954.281454:ERROR:angle_platform_impl.cc(44)] Display.cpp:894 (initialize): ANGLE Display::initialize error 12289: GLX is not present.
+[4088:4088:0228/105954.281596:ERROR:gl_surface_egl.cc(780)] EGL Driver message (Critical) eglInitialize: GLX is not present.
+[4088:4088:0228/105954.281650:ERROR:gl_surface_egl.cc(1375)] eglInitialize OpenGLES failed with error EGL_NOT_INITIALIZED
+[4088:4088:0228/105954.281943:ERROR:gl_ozone_egl.cc(20)] GLSurfaceEGL::InitializeOneOff failed.
+[4088:4088:0228/105954.289987:ERROR:viz_main_impl.cc(161)] Exiting GPU process due to errors during initialization
+[4125:4125:0228/105954.356502:ERROR:angle_platform_impl.cc(44)] Display.cpp:894 (initialize): ANGLE Display::initialize error 12289: GLX is not present.
+[4125:4125:0228/105954.356709:ERROR:gl_surface_egl.cc(780)] EGL Driver message (Critical) eglInitialize: GLX is not present.
+[4125:4125:0228/105954.356766:ERROR:gl_surface_egl.cc(1375)] eglInitialize OpenGL failed with error EGL_NOT_INITIALIZED, trying next display type
+[4125:4125:0228/105954.357624:ERROR:angle_platform_impl.cc(44)] Display.cpp:894 (initialize): ANGLE Display::initialize error 12289: GLX is not present.
+[4125:4125:0228/105954.357722:ERROR:gl_surface_egl.cc(780)] EGL Driver message (Critical) eglInitialize: GLX is not present.
+[4125:4125:0228/105954.357770:ERROR:gl_surface_egl.cc(1375)] eglInitialize OpenGLES failed with error EGL_NOT_INITIALIZED
+[4125:4125:0228/105954.357816:ERROR:gl_ozone_egl.cc(20)] GLSurfaceEGL::InitializeOneOff failed.
+[4125:4125:0228/105954.382812:ERROR:viz_main_impl.cc(161)] Exiting GPU process due to errors during initialization
+[4172:4172:0228/105954.498979:ERROR:gpu_init.cc(453)] Passthrough is not supported, GL is swiftshader, ANGLE is 
+[4064:8:0228/105954.584535:ERROR:command_buffer_proxy_impl.cc(125)] ContextResult::kTransientFailure: Failed to send GpuControl.CreateCommandBuffer.
+[3988:3988:0228/105954.594394:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[3988:3988:0228/105954.657233:INFO:CONSOLE(0)] "Error in event handler: TypeError: Cannot read properties of undefined (reading 'postMessage')
+    at logFunc (chrome-extension://nleagjjmkkjcfcajcnlgpddbdehflfem/background.js:16:14)
+    at chrome.webRequest.onBeforeRequest.addListener.urls (chrome-extension://nleagjjmkkjcfcajcnlgpddbdehflfem/background.js:22:15)", source: chrome-extension://nleagjjmkkjcfcajcnlgpddbdehflfem/_generated_background_page.html (0)
+[3988:3988:0228/105954.657333:INFO:CONSOLE(0)] "Error in event handler: TypeError: Cannot read properties of undefined (reading 'postMessage')
+    at logFunc (chrome-extension://nleagjjmkkjcfcajcnlgpddbdehflfem/background.js:16:14)
+    at chrome.webRequest.onSendHeaders.addListener.urls (chrome-extension://nleagjjmkkjcfcajcnlgpddbdehflfem/background.js:34:15)", source: chrome-extension://nleagjjmkkjcfcajcnlgpddbdehflfem/_generated_background_page.html (0)
+[3988:3988:0228/105954.670615:INFO:CONSOLE(0)] "Error in event handler: TypeError: Cannot read properties of undefined (reading 'postMessage')
+    at logFunc (chrome-extension://nleagjjmkkjcfcajcnlgpddbdehflfem/background.js:16:14)
+    at chrome.webRequest.onBeforeRequest.addListener.urls (chrome-extension://nleagjjmkkjcfcajcnlgpddbdehflfem/background.js:22:15)", source: chrome-extension://nleagjjmkkjcfcajcnlgpddbdehflfem/_generated_background_page.html (0)
+[3988:3988:0228/105954.670681:INFO:CONSOLE(0)] "Error in event handler: TypeError: Cannot read properties of undefined (reading 'postMessage')
+    at logFunc (chrome-extension://nleagjjmkkjcfcajcnlgpddbdehflfem/background.js:16:14)
+    at chrome.webRequest.onSendHeaders.addListener.urls (chrome-extension://nleagjjmkkjcfcajcnlgpddbdehflfem/background.js:34:15)", source: chrome-extension://nleagjjmkkjcfcajcnlgpddbdehflfem/_generated_background_page.html (0)
+[3988:3988:0228/105954.674235:INFO:CONSOLE(0)] "Error in event handler: TypeError: Cannot read properties of undefined (reading 'postMessage')
+    at logFunc (chrome-extension://nleagjjmkkjcfcajcnlgpddbdehflfem/background.js:16:14)
+    at chrome.webRequest.onBeforeRequest.addListener.urls (chrome-extension://nleagjjmkkjcfcajcnlgpddbdehflfem/background.js:22:15)", source: chrome-extension://nleagjjmkkjcfcajcnlgpddbdehflfem/_generated_background_page.html (0)
+[3988:3988:0228/105954.674292:INFO:CONSOLE(0)] "Error in event handler: TypeError: Cannot read properties of undefined (reading 'postMessage')
+    at logFunc (chrome-extension://nleagjjmkkjcfcajcnlgpddbdehflfem/background.js:16:14)
+    at chrome.webRequest.onSendHeaders.addListener.urls (chrome-extension://nleagjjmkkjcfcajcnlgpddbdehflfem/background.js:34:15)", source: chrome-extension://nleagjjmkkjcfcajcnlgpddbdehflfem/_generated_background_page.html (0)
+[3988:3988:0228/105954.674959:INFO:CONSOLE(128)] "Uncaught (in promise) Error: Could not establish connection. Receiving end does not exist.", source: chrome-extension://nhjejghfobloljpipmmgefggimbdefbo/polyfill.js (128)
+[3988:3988:0228/105954.675260:INFO:CONSOLE(128)] "Uncaught (in promise) Error: Could not establish connection. Receiving end does not exist.", source: chrome-extension://nhjejghfobloljpipmmgefggimbdefbo/polyfill.js (128)
+[3988:3988:0228/105954.828916:INFO:CONSOLE(0)] "Uncaught (in promise) NetworkError: A network error occurred.", source: https://www.youtube.com/embed/3UAH3sqKLGo?rel=0&autoplay=1 (0)
+[3988:3988:0228/105954.828967:INFO:CONSOLE(0)] "Uncaught (in promise) NetworkError: A network error occurred.", source: https://www.youtube.com/embed/3UAH3sqKLGo?rel=0&autoplay=1 (0)
+[3988:4057:0228/105956.560088:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+[3988:4057:0228/105956.560129:ERROR:chrome_browser_main_extra_parts_metrics.cc(233)] crbug.com/1216328: Checking Bluetooth availability ended.
+[3988:4057:0228/105956.560325:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+[3988:4057:0228/105956.627523:ERROR:chrome_browser_main_extra_parts_metrics.cc(240)] crbug.com/1216328: Checking default browser status ended.
+[3988:4020:0228/110019.051545:WARNING:bus.cc(637)] Bus::SendWithReplyAndBlock took 25025ms to process message: type=method_call, path=/org/freedesktop/Notifications, interface=org.freedesktop.Notifications, member=GetCapabilities
+[3988:4020:0228/110019.051657:ERROR:object_proxy.cc(642)] Failed to call method: org.freedesktop.Notifications.GetCapabilities: object_path= /org/freedesktop/Notifications: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+[4031:4051:0228/110024.563500:WARNING:key_storage_linux.cc(178)] OSCrypt tried Libsecret but couldn't initialise.
+[3988:3988:0228/110951.567143:WARNING:pref_notifier_impl.cc(40)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
