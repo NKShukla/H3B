@@ -1,0 +1,105 @@
+[8283:8401:0907/002806.371053:ERROR:bus.cc(392)] Failed to connect to the bus: Failed to connect to socket /tmp/dbus-swGPpHWzAh: Connection refused
+[8283:8401:0907/002806.371139:ERROR:bus.cc(392)] Failed to connect to the bus: Failed to connect to socket /tmp/dbus-swGPpHWzAh: Connection refused
+[8283:8401:0907/002806.386104:ERROR:bus.cc(392)] Failed to connect to the bus: Failed to connect to socket /tmp/dbus-swGPpHWzAh: Connection refused
+[8283:8401:0907/002806.386158:ERROR:bus.cc(392)] Failed to connect to the bus: Failed to connect to socket /tmp/dbus-swGPpHWzAh: Connection refused
+[8427:7:0907/002806.391644:WARNING:crashpad_client_linux.cc(306)] prctl: Invalid argument (22)
+[8283:8432:0907/002806.470386:WARNING:external_pref_loader.cc(331)] You are using an old-style extension deployment method (external_extensions.json), which will soon be deprecated. (see http://developer.chrome.com/extensions/external_extensions.html)
+[8283:8283:0907/002806.474708:WARNING:browser_main_loop.cc(271)] <unknown>: Couldn't connect to accessibility bus: Failed to connect to socket /tmp/dbus-j7z7XyQOTT: Connection refused
+[8452:13:0907/002806.514025:WARNING:crashpad_client_linux.cc(306)] prctl: Invalid argument (22)
+[8455:14:0907/002806.519936:WARNING:crashpad_client_linux.cc(306)] prctl: Invalid argument (22)
+[8424:8424:0907/002806.581374:ERROR:gpu_init.cc(441)] Passthrough is not supported, GL is swiftshader
+[8489:35:0907/002806.619782:WARNING:crashpad_client_linux.cc(306)] prctl: Invalid argument (22)
+[8495:39:0907/002806.644447:WARNING:crashpad_client_linux.cc(306)] prctl: Invalid argument (22)
+[8501:43:0907/002806.654147:WARNING:crashpad_client_linux.cc(306)] prctl: Invalid argument (22)
+[8522:60:0907/002806.693222:WARNING:crashpad_client_linux.cc(306)] prctl: Invalid argument (22)
+[8533:69:0907/002806.700456:WARNING:crashpad_client_linux.cc(306)] prctl: Invalid argument (22)
+[8548:82:0907/002806.715883:WARNING:crashpad_client_linux.cc(306)] prctl: Invalid argument (22)
+[8283:8401:0907/002807.230345:ERROR:bus.cc(392)] Failed to connect to the bus: Failed to connect to socket /tmp/dbus-swGPpHWzAh: Connection refused
+[8283:8401:0907/002807.230398:ERROR:bus.cc(392)] Failed to connect to the bus: Failed to connect to socket /tmp/dbus-swGPpHWzAh: Connection refused
+[8283:8398:0907/002807.986230:ERROR:bus.cc(392)] Failed to connect to the bus: Failed to connect to socket /tmp/dbus-swGPpHWzAh: Connection refused
+[8283:8283:0907/002807.986327:ERROR:object_proxy.cc(642)] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: 
+[8283:8398:0907/002807.986403:ERROR:bus.cc(392)] Failed to connect to the bus: Failed to connect to socket /tmp/dbus-swGPpHWzAh: Connection refused
+[8283:8283:0907/002807.986426:ERROR:object_proxy.cc(642)] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: 
+[8283:8398:0907/002807.986469:ERROR:bus.cc(392)] Failed to connect to the bus: Failed to connect to socket /tmp/dbus-swGPpHWzAh: Connection refused
+[8283:8283:0907/002807.986488:ERROR:object_proxy.cc(642)] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: 
+[8283:8398:0907/002807.986528:ERROR:bus.cc(392)] Failed to connect to the bus: Failed to connect to socket /tmp/dbus-swGPpHWzAh: Connection refused
+[8283:8283:0907/002807.986547:ERROR:object_proxy.cc(642)] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: 
+[8283:8398:0907/002807.986586:ERROR:bus.cc(392)] Failed to connect to the bus: Failed to connect to socket /tmp/dbus-swGPpHWzAh: Connection refused
+[8283:8283:0907/002807.986604:ERROR:object_proxy.cc(642)] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: 
+[8283:8283:0907/002807.986611:WARNING:idle_linux.cc(110)] None of the known D-Bus ScreenSaver services could be used.
+[8283:8283:0907/002814.277548:INFO:CONSOLE(0)] "Error in event handler: TypeError: Cannot read properties of undefined (reading 'postMessage')
+    at logFunc (chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/background.js:11:14)
+    at chrome.webRequest.onBeforeRequest.addListener.urls (chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/background.js:16:15)", source: chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/_generated_background_page.html (0)
+[8283:8283:0907/002814.277824:INFO:CONSOLE(0)] "Error in event handler: TypeError: Cannot read properties of undefined (reading 'postMessage')
+    at logFunc (chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/background.js:11:14)
+    at chrome.webRequest.onSendHeaders.addListener.urls (chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/background.js:28:15)", source: chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/_generated_background_page.html (0)
+[8283:8283:0907/002814.292232:INFO:CONSOLE(1)] "Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxK.woff2", source: https://www.youtube.com/embed/ZAWKCE2DX5s?rel=0&autoplay=1 (1)
+[8283:8283:0907/002814.293012:INFO:CONSOLE(128)] "Uncaught (in promise) Error: Could not establish connection. Receiving end does not exist.", source: chrome-extension://nehjjjagpkhikejmlaiffhpgaiphilng/polyfill.js (128)
+[8283:8283:0907/002814.293173:INFO:CONSOLE(128)] "Uncaught (in promise) Error: Could not establish connection. Receiving end does not exist.", source: chrome-extension://nehjjjagpkhikejmlaiffhpgaiphilng/polyfill.js (128)
+[8283:8283:0907/002814.293569:INFO:CONSOLE(0)] "Error in event handler: TypeError: Cannot read properties of undefined (reading 'postMessage')
+    at logFunc (chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/background.js:11:14)
+    at chrome.webRequest.onBeforeRequest.addListener.urls (chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/background.js:16:15)", source: chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/_generated_background_page.html (0)
+[8283:8283:0907/002814.293601:INFO:CONSOLE(0)] "Error in event handler: TypeError: Cannot read properties of undefined (reading 'postMessage')
+    at logFunc (chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/background.js:11:14)
+    at chrome.webRequest.onSendHeaders.addListener.urls (chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/background.js:28:15)", source: chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/_generated_background_page.html (0)
+[8283:8283:0907/002814.295917:INFO:CONSOLE(0)] "Error in event handler: TypeError: Cannot read properties of undefined (reading 'postMessage')
+    at logFunc (chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/background.js:11:14)
+    at chrome.webRequest.onBeforeRequest.addListener.urls (chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/background.js:16:15)", source: chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/_generated_background_page.html (0)
+[8283:8283:0907/002814.296038:INFO:CONSOLE(0)] "Error in event handler: TypeError: Cannot read properties of undefined (reading 'postMessage')
+    at logFunc (chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/background.js:11:14)
+    at chrome.webRequest.onSendHeaders.addListener.urls (chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/background.js:28:15)", source: chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/_generated_background_page.html (0)
+[8644:100:0907/002820.264198:WARNING:crashpad_client_linux.cc(306)] prctl: Invalid argument (22)
+[8283:8283:0907/002828.675274:INFO:CONSOLE(0)] "Error in event handler: TypeError: Cannot read properties of undefined (reading 'postMessage')
+    at logFunc (chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/background.js:11:14)
+    at chrome.webRequest.onBeforeRequest.addListener.urls (chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/background.js:16:15)", source: chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/_generated_background_page.html (0)
+[8283:8283:0907/002828.675329:INFO:CONSOLE(0)] "Error in event handler: TypeError: Cannot read properties of undefined (reading 'postMessage')
+    at logFunc (chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/background.js:11:14)
+    at chrome.webRequest.onSendHeaders.addListener.urls (chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/background.js:28:15)", source: chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/_generated_background_page.html (0)
+[8283:8283:0907/002828.676297:INFO:CONSOLE(0)] "Error in event handler: TypeError: Cannot read properties of undefined (reading 'postMessage')
+    at logFunc (chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/background.js:11:14)
+    at chrome.webRequest.onBeforeRequest.addListener.urls (chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/background.js:16:15)", source: chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/_generated_background_page.html (0)
+[8283:8283:0907/002828.676348:INFO:CONSOLE(0)] "Error in event handler: TypeError: Cannot read properties of undefined (reading 'postMessage')
+    at logFunc (chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/background.js:11:14)
+    at chrome.webRequest.onSendHeaders.addListener.urls (chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/background.js:28:15)", source: chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/_generated_background_page.html (0)
+[8283:8283:0907/002828.676368:INFO:CONSOLE(0)] "Error in event handler: TypeError: Cannot read properties of undefined (reading 'postMessage')
+    at logFunc (chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/background.js:11:14)
+    at chrome.webRequest.onBeforeRequest.addListener.urls (chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/background.js:16:15)", source: chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/_generated_background_page.html (0)
+[8283:8283:0907/002828.676385:INFO:CONSOLE(0)] "Error in event handler: TypeError: Cannot read properties of undefined (reading 'postMessage')
+    at logFunc (chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/background.js:11:14)
+    at chrome.webRequest.onSendHeaders.addListener.urls (chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/background.js:28:15)", source: chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/_generated_background_page.html (0)
+[8283:8283:0907/002828.861290:INFO:CONSOLE(0)] "Error in event handler: TypeError: Cannot read properties of undefined (reading 'postMessage')
+    at logFunc (chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/background.js:11:14)
+    at chrome.webRequest.onResponseStarted.addListener.urls (chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/background.js:22:15)", source: chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/_generated_background_page.html (0)
+[8426:8640:0907/002844.102259:WARNING:key_storage_linux.cc(178)] OSCrypt tried Libsecret but couldn't initialise.
+[8283:8283:0907/002851.300693:INFO:CONSOLE(0)] "Error in event handler: TypeError: Cannot read properties of undefined (reading 'postMessage')
+    at logFunc (chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/background.js:11:14)
+    at chrome.webRequest.onResponseStarted.addListener.urls (chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/background.js:22:15)", source: chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/_generated_background_page.html (0)
+[8283:8283:0907/002851.300938:INFO:CONSOLE(0)] "Error in event handler: TypeError: Cannot read properties of undefined (reading 'postMessage')
+    at logFunc (chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/background.js:11:14)
+    at chrome.webRequest.onCompleted.addListener.urls (chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/background.js:34:15)", source: chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/_generated_background_page.html (0)
+[8283:8283:0907/002900.463314:INFO:CONSOLE(0)] "Uncaught (in promise) NetworkError: A network error occurred.", source: https://www.youtube.com/embed/ZAWKCE2DX5s?rel=0&autoplay=1 (0)
+[8283:8283:0907/002900.463347:INFO:CONSOLE(0)] "Uncaught (in promise) NetworkError: A network error occurred.", source: https://www.youtube.com/embed/ZAWKCE2DX5s?rel=0&autoplay=1 (0)
+[8283:8283:0907/002905.790205:INFO:CONSOLE(0)] "Error in event handler: TypeError: Cannot read properties of undefined (reading 'postMessage')
+    at logFunc (chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/background.js:11:14)
+    at chrome.webRequest.onResponseStarted.addListener.urls (chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/background.js:22:15)", source: chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/_generated_background_page.html (0)
+[8283:8283:0907/002905.792197:INFO:CONSOLE(0)] "Error in event handler: TypeError: Cannot read properties of undefined (reading 'postMessage')
+    at logFunc (chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/background.js:11:14)
+    at chrome.webRequest.onCompleted.addListener.urls (chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/background.js:34:15)", source: chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/_generated_background_page.html (0)
+[8283:8283:0907/002908.764609:INFO:CONSOLE(0)] "Error in event handler: TypeError: Cannot read properties of undefined (reading 'postMessage')
+    at logFunc (chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/background.js:11:14)
+    at chrome.webRequest.onResponseStarted.addListener.urls (chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/background.js:22:15)", source: chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/_generated_background_page.html (0)
+[8283:8283:0907/002908.954326:INFO:CONSOLE(0)] "Error in event handler: TypeError: Cannot read properties of undefined (reading 'postMessage')
+    at logFunc (chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/background.js:11:14)
+    at chrome.webRequest.onCompleted.addListener.urls (chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/background.js:34:15)", source: chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/_generated_background_page.html (0)
+[8283:8283:0907/002916.951830:INFO:CONSOLE(0)] "Error in event handler: TypeError: Cannot read properties of undefined (reading 'postMessage')
+    at logFunc (chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/background.js:11:14)
+    at chrome.webRequest.onBeforeRequest.addListener.urls (chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/background.js:16:15)", source: chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/_generated_background_page.html (0)
+[8283:8283:0907/002916.951887:INFO:CONSOLE(0)] "Error in event handler: TypeError: Cannot read properties of undefined (reading 'postMessage')
+    at logFunc (chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/background.js:11:14)
+    at chrome.webRequest.onSendHeaders.addListener.urls (chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/background.js:28:15)", source: chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/_generated_background_page.html (0)
+[8283:8283:0907/002916.973045:INFO:CONSOLE(0)] "Error in event handler: TypeError: Cannot read properties of undefined (reading 'postMessage')
+    at logFunc (chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/background.js:11:14)
+    at chrome.webRequest.onBeforeRequest.addListener.urls (chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/background.js:16:15)", source: chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/_generated_background_page.html (0)
+[8283:8283:0907/002916.973111:INFO:CONSOLE(0)] "Error in event handler: TypeError: Cannot read properties of undefined (reading 'postMessage')
+    at logFunc (chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/background.js:11:14)
+    at chrome.webRequest.onSendHeaders.addListener.urls (chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/background.js:28:15)", source: chrome-extension://nphlliopfobfddkbiohifpjfhljjpiob/_generated_background_page.html (0)
