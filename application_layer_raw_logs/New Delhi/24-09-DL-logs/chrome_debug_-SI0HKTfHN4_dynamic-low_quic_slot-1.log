@@ -1,0 +1,1 @@
+[4262:4262:0819/170049.622699:ERROR:zygote_host_impl_linux.cc(90)] Running as root without --no-sandbox is not supported. See https://crbug.com/638180.
