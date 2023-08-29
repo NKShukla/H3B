@@ -1,0 +1,92 @@
+[31577:31577:0302/080523.778526:ERROR:angle_platform_impl.cc(44)] Display.cpp:894 (initialize): ANGLE Display::initialize error 12289: GLX is not present.
+[31577:31577:0302/080523.782768:ERROR:gl_surface_egl.cc(780)] EGL Driver message (Critical) eglInitialize: GLX is not present.
+[31577:31577:0302/080523.782868:ERROR:gl_surface_egl.cc(1375)] eglInitialize OpenGL failed with error EGL_NOT_INITIALIZED, trying next display type
+[31577:31577:0302/080523.783124:ERROR:angle_platform_impl.cc(44)] Display.cpp:894 (initialize): ANGLE Display::initialize error 12289: GLX is not present.
+[31577:31577:0302/080523.783180:ERROR:gl_surface_egl.cc(780)] EGL Driver message (Critical) eglInitialize: GLX is not present.
+[31577:31577:0302/080523.783249:ERROR:gl_surface_egl.cc(1375)] eglInitialize OpenGLES failed with error EGL_NOT_INITIALIZED
+[31577:31577:0302/080523.783327:ERROR:gl_ozone_egl.cc(20)] GLSurfaceEGL::InitializeOneOff failed.
+[31577:31577:0302/080523.793180:ERROR:viz_main_impl.cc(161)] Exiting GPU process due to errors during initialization
+[31535:31586:0302/080523.837390:WARNING:external_pref_loader.cc(331)] You are using an old-style extension deployment method (external_extensions.json), which will soon be deprecated. (see http://developer.chrome.com/extensions/external_extensions.html)
+[31633:31633:0302/080523.969930:ERROR:angle_platform_impl.cc(44)] Display.cpp:894 (initialize): ANGLE Display::initialize error 12289: GLX is not present.
+[31633:31633:0302/080523.970462:ERROR:gl_surface_egl.cc(780)] EGL Driver message (Critical) eglInitialize: GLX is not present.
+[31633:31633:0302/080523.970525:ERROR:gl_surface_egl.cc(1375)] eglInitialize OpenGL failed with error EGL_NOT_INITIALIZED, trying next display type
+[31633:31633:0302/080523.970775:ERROR:angle_platform_impl.cc(44)] Display.cpp:894 (initialize): ANGLE Display::initialize error 12289: GLX is not present.
+[31633:31633:0302/080523.970837:ERROR:gl_surface_egl.cc(780)] EGL Driver message (Critical) eglInitialize: GLX is not present.
+[31633:31633:0302/080523.970872:ERROR:gl_surface_egl.cc(1375)] eglInitialize OpenGLES failed with error EGL_NOT_INITIALIZED
+[31633:31633:0302/080523.970912:ERROR:gl_ozone_egl.cc(20)] GLSurfaceEGL::InitializeOneOff failed.
+[31633:31633:0302/080523.974290:ERROR:viz_main_impl.cc(161)] Exiting GPU process due to errors during initialization
+[31657:31657:0302/080524.022688:ERROR:angle_platform_impl.cc(44)] Display.cpp:894 (initialize): ANGLE Display::initialize error 12289: GLX is not present.
+[31657:31657:0302/080524.022867:ERROR:gl_surface_egl.cc(780)] EGL Driver message (Critical) eglInitialize: GLX is not present.
+[31657:31657:0302/080524.023059:ERROR:gl_surface_egl.cc(1375)] eglInitialize OpenGL failed with error EGL_NOT_INITIALIZED, trying next display type
+[31657:31657:0302/080524.023641:ERROR:angle_platform_impl.cc(44)] Display.cpp:894 (initialize): ANGLE Display::initialize error 12289: GLX is not present.
+[31657:31657:0302/080524.023696:ERROR:gl_surface_egl.cc(780)] EGL Driver message (Critical) eglInitialize: GLX is not present.
+[31657:31657:0302/080524.023729:ERROR:gl_surface_egl.cc(1375)] eglInitialize OpenGLES failed with error EGL_NOT_INITIALIZED
+[31657:31657:0302/080524.023766:ERROR:gl_ozone_egl.cc(20)] GLSurfaceEGL::InitializeOneOff failed.
+[31657:31657:0302/080524.034191:ERROR:viz_main_impl.cc(161)] Exiting GPU process due to errors during initialization
+[31684:31684:0302/080524.134216:ERROR:gpu_init.cc(453)] Passthrough is not supported, GL is swiftshader, ANGLE is 
+[31608:8:0302/080524.189365:ERROR:command_buffer_proxy_impl.cc(125)] ContextResult::kTransientFailure: Failed to send GpuControl.CreateCommandBuffer.
+[31535:31535:0302/080524.336328:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[31535:31535:0302/080524.365679:INFO:CONSOLE(0)] "Error in event handler: TypeError: Cannot read properties of undefined (reading 'postMessage')
+    at logFunc (chrome-extension://nleagjjmkkjcfcajcnlgpddbdehflfem/background.js:16:14)
+    at chrome.webRequest.onBeforeRequest.addListener.urls (chrome-extension://nleagjjmkkjcfcajcnlgpddbdehflfem/background.js:22:15)", source: chrome-extension://nleagjjmkkjcfcajcnlgpddbdehflfem/_generated_background_page.html (0)
+[31535:31535:0302/080524.365785:INFO:CONSOLE(0)] "Error in event handler: TypeError: Cannot read properties of undefined (reading 'postMessage')
+    at logFunc (chrome-extension://nleagjjmkkjcfcajcnlgpddbdehflfem/background.js:16:14)
+    at chrome.webRequest.onSendHeaders.addListener.urls (chrome-extension://nleagjjmkkjcfcajcnlgpddbdehflfem/background.js:34:15)", source: chrome-extension://nleagjjmkkjcfcajcnlgpddbdehflfem/_generated_background_page.html (0)
+[31535:31535:0302/080524.384712:INFO:CONSOLE(0)] "Error in event handler: TypeError: Cannot read properties of undefined (reading 'postMessage')
+    at logFunc (chrome-extension://nleagjjmkkjcfcajcnlgpddbdehflfem/background.js:16:14)
+    at chrome.webRequest.onBeforeRequest.addListener.urls (chrome-extension://nleagjjmkkjcfcajcnlgpddbdehflfem/background.js:22:15)", source: chrome-extension://nleagjjmkkjcfcajcnlgpddbdehflfem/_generated_background_page.html (0)
+[31535:31535:0302/080524.384776:INFO:CONSOLE(0)] "Error in event handler: TypeError: Cannot read properties of undefined (reading 'postMessage')
+    at logFunc (chrome-extension://nleagjjmkkjcfcajcnlgpddbdehflfem/background.js:16:14)
+    at chrome.webRequest.onSendHeaders.addListener.urls (chrome-extension://nleagjjmkkjcfcajcnlgpddbdehflfem/background.js:34:15)", source: chrome-extension://nleagjjmkkjcfcajcnlgpddbdehflfem/_generated_background_page.html (0)
+[31535:31535:0302/080524.389093:INFO:CONSOLE(0)] "Error in event handler: TypeError: Cannot read properties of undefined (reading 'postMessage')
+    at logFunc (chrome-extension://nleagjjmkkjcfcajcnlgpddbdehflfem/background.js:16:14)
+    at chrome.webRequest.onBeforeRequest.addListener.urls (chrome-extension://nleagjjmkkjcfcajcnlgpddbdehflfem/background.js:22:15)", source: chrome-extension://nleagjjmkkjcfcajcnlgpddbdehflfem/_generated_background_page.html (0)
+[31535:31535:0302/080524.389144:INFO:CONSOLE(0)] "Error in event handler: TypeError: Cannot read properties of undefined (reading 'postMessage')
+    at logFunc (chrome-extension://nleagjjmkkjcfcajcnlgpddbdehflfem/background.js:16:14)
+    at chrome.webRequest.onSendHeaders.addListener.urls (chrome-extension://nleagjjmkkjcfcajcnlgpddbdehflfem/background.js:34:15)", source: chrome-extension://nleagjjmkkjcfcajcnlgpddbdehflfem/_generated_background_page.html (0)
+[31535:31535:0302/080524.492385:INFO:CONSOLE(0)] "Error in event handler: TypeError: Cannot read properties of undefined (reading 'postMessage')
+    at logFunc (chrome-extension://nleagjjmkkjcfcajcnlgpddbdehflfem/background.js:16:14)
+    at chrome.webRequest.onBeforeRequest.addListener.urls (chrome-extension://nleagjjmkkjcfcajcnlgpddbdehflfem/background.js:22:15)", source: chrome-extension://nleagjjmkkjcfcajcnlgpddbdehflfem/_generated_background_page.html (0)
+[31535:31535:0302/080524.493310:INFO:CONSOLE(0)] "Error in event handler: TypeError: Cannot read properties of undefined (reading 'postMessage')
+    at logFunc (chrome-extension://nleagjjmkkjcfcajcnlgpddbdehflfem/background.js:16:14)
+    at chrome.webRequest.onBeforeRequest.addListener.urls (chrome-extension://nleagjjmkkjcfcajcnlgpddbdehflfem/background.js:22:15)", source: chrome-extension://nleagjjmkkjcfcajcnlgpddbdehflfem/_generated_background_page.html (0)
+[31535:31535:0302/080524.493356:INFO:CONSOLE(0)] "Error in event handler: TypeError: Cannot read properties of undefined (reading 'postMessage')
+    at logFunc (chrome-extension://nleagjjmkkjcfcajcnlgpddbdehflfem/background.js:16:14)
+    at chrome.webRequest.onBeforeRequest.addListener.urls (chrome-extension://nleagjjmkkjcfcajcnlgpddbdehflfem/background.js:22:15)", source: chrome-extension://nleagjjmkkjcfcajcnlgpddbdehflfem/_generated_background_page.html (0)
+[31535:31535:0302/080524.502298:INFO:CONSOLE(0)] "Error in event handler: TypeError: Cannot read properties of undefined (reading 'injectedStyleSheets')
+    at updateFrameStyles (chrome-extension://nhjejghfobloljpipmmgefggimbdefbo/lib/adblockplus.js:17938:20)
+    at chrome-extension://nhjejghfobloljpipmmgefggimbdefbo/lib/adblockplus.js:18102:19
+    at Port._onMessage (chrome-extension://nhjejghfobloljpipmmgefggimbdefbo/lib/adblockplus.js:1393:22)
+    at ext._EventTarget._dispatch (chrome-extension://nhjejghfobloljpipmmgefggimbdefbo/ext/common.js:41:22)
+    at chrome-extension://nhjejghfobloljpipmmgefggimbdefbo/ext/background.js:391:26
+    at wrapper (chrome-extension://nhjejghfobloljpipmmgefggimbdefbo/polyfill.js:175:20)", source: chrome-extension://nhjejghfobloljpipmmgefggimbdefbo/_generated_background_page.html (0)
+[31535:31535:0302/080524.510160:INFO:CONSOLE(935)] "Uncaught (in promise) TypeError: Cannot read properties of undefined (reading 'inline')", source: chrome-extension://nhjejghfobloljpipmmgefggimbdefbo/include.preload.js (935)
+[31535:31535:0302/080524.520622:INFO:CONSOLE(0)] "Error in event handler: TypeError: Cannot read properties of undefined (reading 'postMessage')
+    at logFunc (chrome-extension://nleagjjmkkjcfcajcnlgpddbdehflfem/background.js:16:14)
+    at chrome.webRequest.onSendHeaders.addListener.urls (chrome-extension://nleagjjmkkjcfcajcnlgpddbdehflfem/background.js:34:15)", source: chrome-extension://nleagjjmkkjcfcajcnlgpddbdehflfem/_generated_background_page.html (0)
+[31535:31535:0302/080524.521096:INFO:CONSOLE(0)] "Error in event handler: TypeError: Cannot read properties of undefined (reading 'postMessage')
+    at logFunc (chrome-extension://nleagjjmkkjcfcajcnlgpddbdehflfem/background.js:16:14)
+    at chrome.webRequest.onSendHeaders.addListener.urls (chrome-extension://nleagjjmkkjcfcajcnlgpddbdehflfem/background.js:34:15)", source: chrome-extension://nleagjjmkkjcfcajcnlgpddbdehflfem/_generated_background_page.html (0)
+[31535:31535:0302/080524.521425:INFO:CONSOLE(0)] "Error in event handler: TypeError: Cannot read properties of undefined (reading 'postMessage')
+    at logFunc (chrome-extension://nleagjjmkkjcfcajcnlgpddbdehflfem/background.js:16:14)
+    at chrome.webRequest.onSendHeaders.addListener.urls (chrome-extension://nleagjjmkkjcfcajcnlgpddbdehflfem/background.js:34:15)", source: chrome-extension://nleagjjmkkjcfcajcnlgpddbdehflfem/_generated_background_page.html (0)
+[31535:31535:0302/080524.548971:INFO:CONSOLE(7)] "Uncaught ReferenceError: writeEmbed is not defined", source: https://www.youtube.com/embed/3UAH3sqKLGo?rel=0&autoplay=1 (7)
+[31535:31535:0302/080524.557759:INFO:CONSOLE(0)] "Uncaught (in promise) NetworkError: A network error occurred.", source: https://www.youtube.com/embed/3UAH3sqKLGo?rel=0&autoplay=1 (0)
+[31535:31535:0302/080524.557799:INFO:CONSOLE(0)] "Uncaught (in promise) NetworkError: A network error occurred.", source: https://www.youtube.com/embed/3UAH3sqKLGo?rel=0&autoplay=1 (0)
+[31535:31535:0302/080524.557875:INFO:CONSOLE(128)] "Uncaught (in promise) Error: Could not establish connection. Receiving end does not exist.", source: chrome-extension://nhjejghfobloljpipmmgefggimbdefbo/polyfill.js (128)
+[31535:31535:0302/080524.560292:INFO:CONSOLE(1)] "CONTENT SCRIPT", source: chrome-extension://nleagjjmkkjcfcajcnlgpddbdehflfem/content.js (1)
+[31535:31535:0302/080524.574467:INFO:CONSOLE(36)] "BEFORE_REQUEST 1646208324572 {"frameId":0,"initiator":"https://www.youtube.com","method":"GET","parentFrameId":-1,"requestId":"66","tabId":2,"timeStamp":1646208324572.023,"type":"image","url":"https://www.youtube.com/favicon.ico"}", source: chrome-extension://nleagjjmkkjcfcajcnlgpddbdehflfem/content.js (36)
+[31535:31535:0302/080524.574512:INFO:CONSOLE(36)] "SEND_HEADERS 1646208324572 {"frameId":0,"initiator":"https://www.youtube.com","method":"GET","parentFrameId":-1,"requestId":"66","tabId":2,"timeStamp":1646208324572.185,"type":"image","url":"https://www.youtube.com/favicon.ico"}", source: chrome-extension://nleagjjmkkjcfcajcnlgpddbdehflfem/content.js (36)
+[31535:31535:0302/080525.291751:INFO:CONSOLE(36)] "RESPONSE_STARTED 1646208325290 {"frameId":0,"fromCache":false,"initiator":"https://www.youtube.com","ip":"74.125.24.190","method":"GET","parentFrameId":-1,"requestId":"66","statusCode":200,"statusLine":"HTTP/1.1 200","tabId":2,"timeStamp":1646208325290.4749,"type":"image","url":"https://www.youtube.com/favicon.ico"}", source: chrome-extension://nleagjjmkkjcfcajcnlgpddbdehflfem/content.js (36)
+[31535:31535:0302/080525.295176:INFO:CONSOLE(36)] "COMPLETE 1646208325293 {"frameId":0,"fromCache":false,"initiator":"https://www.youtube.com","ip":"74.125.24.190","method":"GET","parentFrameId":-1,"requestId":"66","responseHeaders":[{"name":"accept-ranges","value":"bytes"},{"name":"vary","value":"Accept-Encoding"},{"name":"content-encoding","value":"gzip"},{"name":"content-security-policy-report-only","value":"require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/youtube-marketing"},{"name":"cross-origin-resource-policy","value":"cross-origin"},{"name":"cross-origin-opener-policy-report-only","value":"same-origin; report-to=\"youtube-marketing\""},{"name":"report-to","value":"{\"group\":\"youtube-marketing\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://csp.withgoogle.com/csp/report-to/youtube-marketing\"}]}"},{"name":"content-length","value":"180"},{"name":"x-content-type-options","value":"nosniff"},{"name":"server","value":"sffe"},{"name":"x-xss-protection","value":"0"},{"name":"date","value":"Fri, 25 Feb 2022 08:23:38 GMT"},{"name":"expires","value":"Sat, 25 Feb 2023 08:23:38 GMT"},{"name":"cache-control","value":"public, max-age=31536000"},{"name":"age","value":"430907"},{"name":"last-modified","value":"Tue, 03 Mar 2020 20:15:00 GMT"},{"name":"content-type","value":"image/x-icon"},{"name":"alt-svc","value":"h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\""}],"statusCode":200,"statusLine":"HTTP/1.1 200","tabId":2,"timeStamp":1646208325293.0168,"type":"image","url":"https://www.youtube.com/favicon.ico"}", source: chrome-extension://nleagjjmkkjcfcajcnlgpddbdehflfem/content.js (36)
+[31535:31535:0302/080525.480175:WARNING:idle_linux.cc(110)] None of the known D-Bus ScreenSaver services could be used.
+[31535:31562:0302/080526.262715:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+[31535:31562:0302/080526.262811:ERROR:chrome_browser_main_extra_parts_metrics.cc(233)] crbug.com/1216328: Checking Bluetooth availability ended.
+[31535:31562:0302/080526.262822:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+[31535:31562:0302/080526.298706:ERROR:chrome_browser_main_extra_parts_metrics.cc(240)] crbug.com/1216328: Checking default browser status ended.
+[31535:31566:0302/080548.738742:WARNING:bus.cc(637)] Bus::SendWithReplyAndBlock took 25001ms to process message: type=method_call, path=/org/freedesktop/Notifications, interface=org.freedesktop.Notifications, member=GetCapabilities
+[31535:31566:0302/080548.739465:ERROR:object_proxy.cc(642)] Failed to call method: org.freedesktop.Notifications.GetCapabilities: object_path= /org/freedesktop/Notifications: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+[31578:31634:0302/080554.292136:WARNING:key_storage_linux.cc(178)] OSCrypt tried Libsecret but couldn't initialise.
+[31535:31535:0302/080725.559903:INFO:CONSOLE(29)] "Closing window 0", source: chrome-extension://nleagjjmkkjcfcajcnlgpddbdehflfem/content.js (29)
+[31578:31634:0302/080725.619663:WARNING:sqlite_persistent_store_backend_base.cc(172)] Failed to post task from FlushAndNotifyInBackground@net/extras/sqlite/sqlite_persistent_store_backend_base.cc:220 to client_task_runner_.
+[31535:31535:0302/080725.628817:WARNING:pref_notifier_impl.cc(40)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

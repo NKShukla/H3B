@@ -1,0 +1,73 @@
+[30924:30924:0302/075954.602325:ERROR:angle_platform_impl.cc(44)] Display.cpp:894 (initialize): ANGLE Display::initialize error 12289: GLX is not present.
+[30924:30924:0302/075954.605924:ERROR:gl_surface_egl.cc(780)] EGL Driver message (Critical) eglInitialize: GLX is not present.
+[30924:30924:0302/075954.606020:ERROR:gl_surface_egl.cc(1375)] eglInitialize OpenGL failed with error EGL_NOT_INITIALIZED, trying next display type
+[30924:30924:0302/075954.606220:ERROR:angle_platform_impl.cc(44)] Display.cpp:894 (initialize): ANGLE Display::initialize error 12289: GLX is not present.
+[30924:30924:0302/075954.606270:ERROR:gl_surface_egl.cc(780)] EGL Driver message (Critical) eglInitialize: GLX is not present.
+[30924:30924:0302/075954.606318:ERROR:gl_surface_egl.cc(1375)] eglInitialize OpenGLES failed with error EGL_NOT_INITIALIZED
+[30924:30924:0302/075954.606370:ERROR:gl_ozone_egl.cc(20)] GLSurfaceEGL::InitializeOneOff failed.
+[30924:30924:0302/075954.616917:ERROR:viz_main_impl.cc(161)] Exiting GPU process due to errors during initialization
+[30883:30910:0302/075954.697494:WARNING:external_pref_loader.cc(331)] You are using an old-style extension deployment method (external_extensions.json), which will soon be deprecated. (see http://developer.chrome.com/extensions/external_extensions.html)
+[30980:30980:0302/075954.864575:ERROR:angle_platform_impl.cc(44)] Display.cpp:894 (initialize): ANGLE Display::initialize error 12289: GLX is not present.
+[30980:30980:0302/075954.865050:ERROR:gl_surface_egl.cc(780)] EGL Driver message (Critical) eglInitialize: GLX is not present.
+[30980:30980:0302/075954.865192:ERROR:gl_surface_egl.cc(1375)] eglInitialize OpenGL failed with error EGL_NOT_INITIALIZED, trying next display type
+[30980:30980:0302/075954.865828:ERROR:angle_platform_impl.cc(44)] Display.cpp:894 (initialize): ANGLE Display::initialize error 12289: GLX is not present.
+[30980:30980:0302/075954.866143:ERROR:gl_surface_egl.cc(780)] EGL Driver message (Critical) eglInitialize: GLX is not present.
+[30980:30980:0302/075954.866524:ERROR:gl_surface_egl.cc(1375)] eglInitialize OpenGLES failed with error EGL_NOT_INITIALIZED
+[30980:30980:0302/075954.866826:ERROR:gl_ozone_egl.cc(20)] GLSurfaceEGL::InitializeOneOff failed.
+[30980:30980:0302/075954.884000:ERROR:viz_main_impl.cc(161)] Exiting GPU process due to errors during initialization
+[31027:31027:0302/075955.008024:ERROR:angle_platform_impl.cc(44)] Display.cpp:894 (initialize): ANGLE Display::initialize error 12289: GLX is not present.
+[31027:31027:0302/075955.008749:ERROR:gl_surface_egl.cc(780)] EGL Driver message (Critical) eglInitialize: GLX is not present.
+[31027:31027:0302/075955.009101:ERROR:gl_surface_egl.cc(1375)] eglInitialize OpenGL failed with error EGL_NOT_INITIALIZED, trying next display type
+[31027:31027:0302/075955.009549:ERROR:angle_platform_impl.cc(44)] Display.cpp:894 (initialize): ANGLE Display::initialize error 12289: GLX is not present.
+[31027:31027:0302/075955.009890:ERROR:gl_surface_egl.cc(780)] EGL Driver message (Critical) eglInitialize: GLX is not present.
+[31027:31027:0302/075955.010543:ERROR:gl_surface_egl.cc(1375)] eglInitialize OpenGLES failed with error EGL_NOT_INITIALIZED
+[31027:31027:0302/075955.010948:ERROR:gl_ozone_egl.cc(20)] GLSurfaceEGL::InitializeOneOff failed.
+[31027:31027:0302/075955.019518:ERROR:viz_main_impl.cc(161)] Exiting GPU process due to errors during initialization
+[31077:31077:0302/075955.099469:ERROR:angle_platform_impl.cc(44)] Display.cpp:894 (initialize): ANGLE Display::initialize error 12289: GLX is not present.
+[31077:31077:0302/075955.099747:ERROR:gl_surface_egl.cc(780)] EGL Driver message (Critical) eglInitialize: GLX is not present.
+[31077:31077:0302/075955.100113:ERROR:gl_surface_egl.cc(1375)] eglInitialize OpenGL failed with error EGL_NOT_INITIALIZED, trying next display type
+[31077:31077:0302/075955.100327:ERROR:angle_platform_impl.cc(44)] Display.cpp:894 (initialize): ANGLE Display::initialize error 12289: GLX is not present.
+[31077:31077:0302/075955.100488:ERROR:gl_surface_egl.cc(780)] EGL Driver message (Critical) eglInitialize: GLX is not present.
+[31077:31077:0302/075955.100641:ERROR:gl_surface_egl.cc(1375)] eglInitialize OpenGLES failed with error EGL_NOT_INITIALIZED
+[31077:31077:0302/075955.100720:ERROR:gl_ozone_egl.cc(20)] GLSurfaceEGL::InitializeOneOff failed.
+[31077:31077:0302/075955.114132:ERROR:viz_main_impl.cc(161)] Exiting GPU process due to errors during initialization
+[31087:31087:0302/075955.148308:ERROR:angle_platform_impl.cc(44)] Display.cpp:894 (initialize): ANGLE Display::initialize error 12289: GLX is not present.
+[31087:31087:0302/075955.148492:ERROR:gl_surface_egl.cc(780)] EGL Driver message (Critical) eglInitialize: GLX is not present.
+[31087:31087:0302/075955.148544:ERROR:gl_surface_egl.cc(1375)] eglInitialize OpenGL failed with error EGL_NOT_INITIALIZED, trying next display type
+[31087:31087:0302/075955.148720:ERROR:angle_platform_impl.cc(44)] Display.cpp:894 (initialize): ANGLE Display::initialize error 12289: GLX is not present.
+[31087:31087:0302/075955.148766:ERROR:gl_surface_egl.cc(780)] EGL Driver message (Critical) eglInitialize: GLX is not present.
+[31087:31087:0302/075955.148817:ERROR:gl_surface_egl.cc(1375)] eglInitialize OpenGLES failed with error EGL_NOT_INITIALIZED
+[31087:31087:0302/075955.148930:ERROR:gl_ozone_egl.cc(20)] GLSurfaceEGL::InitializeOneOff failed.
+[31087:31087:0302/075955.162317:ERROR:viz_main_impl.cc(161)] Exiting GPU process due to errors during initialization
+[31095:31095:0302/075955.220935:ERROR:angle_platform_impl.cc(44)] Display.cpp:894 (initialize): ANGLE Display::initialize error 12289: GLX is not present.
+[31095:31095:0302/075955.221133:ERROR:gl_surface_egl.cc(780)] EGL Driver message (Critical) eglInitialize: GLX is not present.
+[31095:31095:0302/075955.221189:ERROR:gl_surface_egl.cc(1375)] eglInitialize OpenGL failed with error EGL_NOT_INITIALIZED, trying next display type
+[31095:31095:0302/075955.221350:ERROR:angle_platform_impl.cc(44)] Display.cpp:894 (initialize): ANGLE Display::initialize error 12289: GLX is not present.
+[31095:31095:0302/075955.221392:ERROR:gl_surface_egl.cc(780)] EGL Driver message (Critical) eglInitialize: GLX is not present.
+[31095:31095:0302/075955.221446:ERROR:gl_surface_egl.cc(1375)] eglInitialize OpenGLES failed with error EGL_NOT_INITIALIZED
+[31095:31095:0302/075955.221519:ERROR:gl_ozone_egl.cc(20)] GLSurfaceEGL::InitializeOneOff failed.
+[31095:31095:0302/075955.230604:ERROR:viz_main_impl.cc(161)] Exiting GPU process due to errors during initialization
+[31103:31103:0302/075955.253914:ERROR:gpu_init.cc(453)] Passthrough is not supported, GL is swiftshader, ANGLE is 
+[30960:8:0302/075955.297257:ERROR:command_buffer_proxy_impl.cc(125)] ContextResult::kTransientFailure: Failed to send GpuControl.CreateCommandBuffer.
+[30883:30883:0302/075955.303332:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[30883:30883:0302/075955.332981:INFO:CONSOLE(0)] "Error in event handler: TypeError: Cannot read properties of undefined (reading 'postMessage')
+    at logFunc (chrome-extension://nleagjjmkkjcfcajcnlgpddbdehflfem/background.js:16:14)
+    at chrome.webRequest.onBeforeRequest.addListener.urls (chrome-extension://nleagjjmkkjcfcajcnlgpddbdehflfem/background.js:22:15)", source: chrome-extension://nleagjjmkkjcfcajcnlgpddbdehflfem/_generated_background_page.html (0)
+[30883:30883:0302/075955.394878:INFO:CONSOLE(0)] "Error in event handler: TypeError: Cannot read properties of undefined (reading 'postMessage')
+    at logFunc (chrome-extension://nleagjjmkkjcfcajcnlgpddbdehflfem/background.js:16:14)
+    at chrome.webRequest.onSendHeaders.addListener.urls (chrome-extension://nleagjjmkkjcfcajcnlgpddbdehflfem/background.js:34:15)", source: chrome-extension://nleagjjmkkjcfcajcnlgpddbdehflfem/_generated_background_page.html (0)
+[30883:30883:0302/075955.618857:INFO:CONSOLE(0)] "Error in event handler: TypeError: Cannot read properties of undefined (reading 'postMessage')
+    at logFunc (chrome-extension://nleagjjmkkjcfcajcnlgpddbdehflfem/background.js:16:14)
+    at chrome.webRequest.onResponseStarted.addListener.urls (chrome-extension://nleagjjmkkjcfcajcnlgpddbdehflfem/background.js:28:15)", source: chrome-extension://nleagjjmkkjcfcajcnlgpddbdehflfem/_generated_background_page.html (0)
+[30883:30883:0302/075956.039460:INFO:CONSOLE(0)] "Error in event handler: TypeError: Cannot read properties of undefined (reading 'postMessage')
+    at logFunc (chrome-extension://nleagjjmkkjcfcajcnlgpddbdehflfem/background.js:16:14)
+    at chrome.webRequest.onCompleted.addListener.urls (chrome-extension://nleagjjmkkjcfcajcnlgpddbdehflfem/background.js:47:15)", source: chrome-extension://nleagjjmkkjcfcajcnlgpddbdehflfem/_generated_background_page.html (0)
+[30883:30883:0302/075956.364299:WARNING:idle_linux.cc(110)] None of the known D-Bus ScreenSaver services could be used.
+[30883:30953:0302/075957.122595:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+[30883:30953:0302/075957.122635:ERROR:chrome_browser_main_extra_parts_metrics.cc(233)] crbug.com/1216328: Checking Bluetooth availability ended.
+[30883:30953:0302/075957.122643:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+[30883:30953:0302/075957.146760:ERROR:chrome_browser_main_extra_parts_metrics.cc(240)] crbug.com/1216328: Checking default browser status ended.
+[30883:30915:0302/080019.597714:WARNING:bus.cc(637)] Bus::SendWithReplyAndBlock took 25020ms to process message: type=method_call, path=/org/freedesktop/Notifications, interface=org.freedesktop.Notifications, member=GetCapabilities
+[30883:30915:0302/080019.597802:ERROR:object_proxy.cc(642)] Failed to call method: org.freedesktop.Notifications.GetCapabilities: object_path= /org/freedesktop/Notifications: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+[30925:30986:0302/080025.050346:WARNING:key_storage_linux.cc(178)] OSCrypt tried Libsecret but couldn't initialise.
+[30883:30883:0302/080453.359244:WARNING:pref_notifier_impl.cc(40)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
