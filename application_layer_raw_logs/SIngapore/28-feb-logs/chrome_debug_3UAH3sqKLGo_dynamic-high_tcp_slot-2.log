@@ -1,0 +1,29 @@
+[28189:28189:0225/092206.420402:ERROR:angle_platform_impl.cc(44)] Display.cpp:894 (initialize): ANGLE Display::initialize error 12289: GLX is not present.
+[28189:28189:0225/092206.521391:ERROR:gl_surface_egl.cc(780)] EGL Driver message (Critical) eglInitialize: GLX is not present.
+[28189:28189:0225/092206.521874:ERROR:gl_surface_egl.cc(1375)] eglInitialize OpenGL failed with error EGL_NOT_INITIALIZED, trying next display type
+[28189:28189:0225/092206.522294:ERROR:angle_platform_impl.cc(44)] Display.cpp:894 (initialize): ANGLE Display::initialize error 12289: GLX is not present.
+[28189:28189:0225/092206.522354:ERROR:gl_surface_egl.cc(780)] EGL Driver message (Critical) eglInitialize: GLX is not present.
+[28189:28189:0225/092206.522434:ERROR:gl_surface_egl.cc(1375)] eglInitialize OpenGLES failed with error EGL_NOT_INITIALIZED
+[28189:28189:0225/092206.522487:ERROR:gl_ozone_egl.cc(20)] GLSurfaceEGL::InitializeOneOff failed.
+[28189:28189:0225/092206.531956:ERROR:viz_main_impl.cc(161)] Exiting GPU process due to errors during initialization
+[28151:28203:0225/092206.612219:WARNING:external_pref_loader.cc(331)] You are using an old-style extension deployment method (external_extensions.json), which will soon be deprecated. (see http://developer.chrome.com/extensions/external_extensions.html)
+[28253:28253:0225/092206.757816:ERROR:angle_platform_impl.cc(44)] Display.cpp:894 (initialize): ANGLE Display::initialize error 12289: GLX is not present.
+[28253:28253:0225/092206.758170:ERROR:gl_surface_egl.cc(780)] EGL Driver message (Critical) eglInitialize: GLX is not present.
+[28253:28253:0225/092206.758241:ERROR:gl_surface_egl.cc(1375)] eglInitialize OpenGL failed with error EGL_NOT_INITIALIZED, trying next display type
+[28253:28253:0225/092206.758739:ERROR:angle_platform_impl.cc(44)] Display.cpp:894 (initialize): ANGLE Display::initialize error 12289: GLX is not present.
+[28253:28253:0225/092206.758930:ERROR:gl_surface_egl.cc(780)] EGL Driver message (Critical) eglInitialize: GLX is not present.
+[28253:28253:0225/092206.758991:ERROR:gl_surface_egl.cc(1375)] eglInitialize OpenGLES failed with error EGL_NOT_INITIALIZED
+[28253:28253:0225/092206.759050:ERROR:gl_ozone_egl.cc(20)] GLSurfaceEGL::InitializeOneOff failed.
+[28253:28253:0225/092206.789685:ERROR:viz_main_impl.cc(161)] Exiting GPU process due to errors during initialization
+[28288:28288:0225/092206.916421:ERROR:gpu_init.cc(453)] Passthrough is not supported, GL is swiftshader, ANGLE is 
+[28225:8:0225/092207.007697:ERROR:command_buffer_proxy_impl.cc(125)] ContextResult::kTransientFailure: Failed to send GpuControl.CreateCommandBuffer.
+[28151:28151:0225/092207.085832:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[28151:28151:0225/092208.282760:WARNING:idle_linux.cc(110)] None of the known D-Bus ScreenSaver services could be used.
+[28151:28211:0225/092209.152899:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+[28151:28211:0225/092209.152942:ERROR:chrome_browser_main_extra_parts_metrics.cc(233)] crbug.com/1216328: Checking Bluetooth availability ended.
+[28151:28211:0225/092209.152951:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+[28151:28211:0225/092209.211328:ERROR:chrome_browser_main_extra_parts_metrics.cc(240)] crbug.com/1216328: Checking default browser status ended.
+[28151:28183:0225/092231.406382:WARNING:bus.cc(637)] Bus::SendWithReplyAndBlock took 25008ms to process message: type=method_call, path=/org/freedesktop/Notifications, interface=org.freedesktop.Notifications, member=GetCapabilities
+[28151:28183:0225/092231.407678:ERROR:object_proxy.cc(642)] Failed to call method: org.freedesktop.Notifications.GetCapabilities: object_path= /org/freedesktop/Notifications: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+[28193:28243:0225/092237.063735:WARNING:key_storage_linux.cc(178)] OSCrypt tried Libsecret but couldn't initialise.
+[28151:28151:0225/100815.910777:WARNING:pref_notifier_impl.cc(40)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
