@@ -1,0 +1,3162 @@
+{
+  "-SI0HKTfHN4": {
+    "18": {
+      "bitrate": 576066,
+      "qualityLabel": "360p"
+    },
+    "22": {
+      "bitrate": 743210,
+      "qualityLabel": "720p"
+    },
+    "137": {
+      "bitrate": 4466585,
+      "qualityLabel": "1080p"
+    },
+    "248": {
+      "bitrate": 3564904,
+      "qualityLabel": "1080p"
+    },
+    "399": {
+      "bitrate": 2683558,
+      "qualityLabel": "1080p"
+    },
+    "136": {
+      "bitrate": 2029085,
+      "qualityLabel": "720p"
+    },
+    "247": {
+      "bitrate": 1908018,
+      "qualityLabel": "720p"
+    },
+    "398": {
+      "bitrate": 1497188,
+      "qualityLabel": "720p"
+    },
+    "135": {
+      "bitrate": 930845,
+      "qualityLabel": "480p"
+    },
+    "244": {
+      "bitrate": 849429,
+      "qualityLabel": "480p"
+    },
+    "397": {
+      "bitrate": 737405,
+      "qualityLabel": "480p"
+    },
+    "134": {
+      "bitrate": 654628,
+      "qualityLabel": "360p"
+    },
+    "243": {
+      "bitrate": 492803,
+      "qualityLabel": "360p"
+    },
+    "396": {
+      "bitrate": 399554,
+      "qualityLabel": "360p"
+    },
+    "133": {
+      "bitrate": 301679,
+      "qualityLabel": "240p"
+    },
+    "242": {
+      "bitrate": 244471,
+      "qualityLabel": "240p"
+    },
+    "395": {
+      "bitrate": 213957,
+      "qualityLabel": "240p"
+    },
+    "160": {
+      "bitrate": 121862,
+      "qualityLabel": "144p"
+    },
+    "278": {
+      "bitrate": 112110,
+      "qualityLabel": "144p"
+    },
+    "394": {
+      "bitrate": 94436,
+      "qualityLabel": "144p"
+    }
+  },
+  "3UAH3sqKLGo": {
+    "18": {
+      "bitrate": 578810,
+      "qualityLabel": "360p"
+    },
+    "22": {
+      "bitrate": 678446,
+      "qualityLabel": "720p"
+    },
+    "137": {
+      "bitrate": 4375452,
+      "qualityLabel": "1080p"
+    },
+    "248": {
+      "bitrate": 2719369,
+      "qualityLabel": "1080p"
+    },
+    "399": {
+      "bitrate": 2461124,
+      "qualityLabel": "1080p"
+    },
+    "136": {
+      "bitrate": 1444590,
+      "qualityLabel": "720p"
+    },
+    "247": {
+      "bitrate": 1547320,
+      "qualityLabel": "720p"
+    },
+    "398": {
+      "bitrate": 1295750,
+      "qualityLabel": "720p"
+    },
+    "135": {
+      "bitrate": 775692,
+      "qualityLabel": "480p"
+    },
+    "244": {
+      "bitrate": 782344,
+      "qualityLabel": "480p"
+    },
+    "397": {
+      "bitrate": 669905,
+      "qualityLabel": "480p"
+    },
+    "134": {
+      "bitrate": 502313,
+      "qualityLabel": "360p"
+    },
+    "243": {
+      "bitrate": 417752,
+      "qualityLabel": "360p"
+    },
+    "396": {
+      "bitrate": 395324,
+      "qualityLabel": "360p"
+    },
+    "133": {
+      "bitrate": 233748,
+      "qualityLabel": "240p"
+    },
+    "242": {
+      "bitrate": 227305,
+      "qualityLabel": "240p"
+    },
+    "395": {
+      "bitrate": 191227,
+      "qualityLabel": "240p"
+    },
+    "160": {
+      "bitrate": 137293,
+      "qualityLabel": "144p"
+    },
+    "278": {
+      "bitrate": 104630,
+      "qualityLabel": "144p"
+    },
+    "394": {
+      "bitrate": 87195,
+      "qualityLabel": "144p"
+    }
+  },
+  "4QcHHal-pt4": {
+    "18": {
+      "bitrate": 512759,
+      "qualityLabel": "360p"
+    },
+    "22": {
+      "bitrate": 649740,
+      "qualityLabel": "720p"
+    },
+    "137": {
+      "bitrate": 4466452,
+      "qualityLabel": "1080p"
+    },
+    "248": {
+      "bitrate": 2680531,
+      "qualityLabel": "1080p"
+    },
+    "399": {
+      "bitrate": 2402451,
+      "qualityLabel": "1080p"
+    },
+    "136": {
+      "bitrate": 1804135,
+      "qualityLabel": "720p"
+    },
+    "247": {
+      "bitrate": 1503593,
+      "qualityLabel": "720p"
+    },
+    "398": {
+      "bitrate": 1331966,
+      "qualityLabel": "720p"
+    },
+    "135": {
+      "bitrate": 1019629,
+      "qualityLabel": "480p"
+    },
+    "244": {
+      "bitrate": 756822,
+      "qualityLabel": "480p"
+    },
+    "397": {
+      "bitrate": 706715,
+      "qualityLabel": "480p"
+    },
+    "134": {
+      "bitrate": 603781,
+      "qualityLabel": "360p"
+    },
+    "243": {
+      "bitrate": 412207,
+      "qualityLabel": "360p"
+    },
+    "396": {
+      "bitrate": 387958,
+      "qualityLabel": "360p"
+    },
+    "133": {
+      "bitrate": 303545,
+      "qualityLabel": "240p"
+    },
+    "242": {
+      "bitrate": 224867,
+      "qualityLabel": "240p"
+    },
+    "395": {
+      "bitrate": 185179,
+      "qualityLabel": "240p"
+    },
+    "160": {
+      "bitrate": 122678,
+      "qualityLabel": "144p"
+    },
+    "278": {
+      "bitrate": 98699,
+      "qualityLabel": "144p"
+    },
+    "394": {
+      "bitrate": 89196,
+      "qualityLabel": "144p"
+    }
+  },
+  "8fbw41hT2fY": {
+    "18": {
+      "bitrate": 465551,
+      "qualityLabel": "360p"
+    },
+    "22": {
+      "bitrate": 449133,
+      "qualityLabel": "720p"
+    },
+    "137": {
+      "bitrate": 1875275,
+      "qualityLabel": "1080p"
+    },
+    "248": {
+      "bitrate": 2138256,
+      "qualityLabel": "1080p"
+    },
+    "399": {
+      "bitrate": 1767070,
+      "qualityLabel": "1080p"
+    },
+    "136": {
+      "bitrate": 502089,
+      "qualityLabel": "720p"
+    },
+    "247": {
+      "bitrate": 690124,
+      "qualityLabel": "720p"
+    },
+    "398": {
+      "bitrate": 1039678,
+      "qualityLabel": "720p"
+    },
+    "135": {
+      "bitrate": 294345,
+      "qualityLabel": "480p"
+    },
+    "244": {
+      "bitrate": 424846,
+      "qualityLabel": "480p"
+    },
+    "397": {
+      "bitrate": 550488,
+      "qualityLabel": "480p"
+    },
+    "134": {
+      "bitrate": 183651,
+      "qualityLabel": "360p"
+    },
+    "243": {
+      "bitrate": 282233,
+      "qualityLabel": "360p"
+    },
+    "396": {
+      "bitrate": 310417,
+      "qualityLabel": "360p"
+    },
+    "133": {
+      "bitrate": 104750,
+      "qualityLabel": "240p"
+    },
+    "242": {
+      "bitrate": 173482,
+      "qualityLabel": "240p"
+    },
+    "395": {
+      "bitrate": 146307,
+      "qualityLabel": "240p"
+    },
+    "160": {
+      "bitrate": 94518,
+      "qualityLabel": "144p"
+    },
+    "278": {
+      "bitrate": 102787,
+      "qualityLabel": "144p"
+    },
+    "394": {
+      "bitrate": 70470,
+      "qualityLabel": "144p"
+    }
+  },
+  "Ac4f0ha2l1g": {
+    "18": {
+      "bitrate": 448214,
+      "qualityLabel": "360p"
+    },
+    "22": {
+      "bitrate": 1477426,
+      "qualityLabel": "720p"
+    },
+    "271": {
+      "bitrate": 5685880,
+      "qualityLabel": "1080p"
+    },
+    "400": {
+      "bitrate": 4526622,
+      "qualityLabel": "1080p"
+    },
+    "137": {
+      "bitrate": 4332937,
+      "qualityLabel": "1080p"
+    },
+    "248": {
+      "bitrate": 2674955,
+      "qualityLabel": "1080p"
+    },
+    "399": {
+      "bitrate": 2388009,
+      "qualityLabel": "1080p"
+    },
+    "136": {
+      "bitrate": 1387747,
+      "qualityLabel": "720p"
+    },
+    "247": {
+      "bitrate": 1521910,
+      "qualityLabel": "720p"
+    },
+    "398": {
+      "bitrate": 1447349,
+      "qualityLabel": "720p"
+    },
+    "135": {
+      "bitrate": 986414,
+      "qualityLabel": "480p"
+    },
+    "244": {
+      "bitrate": 762696,
+      "qualityLabel": "480p"
+    },
+    "397": {
+      "bitrate": 899721,
+      "qualityLabel": "480p"
+    },
+    "134": {
+      "bitrate": 632592,
+      "qualityLabel": "360p"
+    },
+    "243": {
+      "bitrate": 415323,
+      "qualityLabel": "360p"
+    },
+    "396": {
+      "bitrate": 536845,
+      "qualityLabel": "360p"
+    },
+    "133": {
+      "bitrate": 244665,
+      "qualityLabel": "240p"
+    },
+    "242": {
+      "bitrate": 194041,
+      "qualityLabel": "240p"
+    },
+    "395": {
+      "bitrate": 326852,
+      "qualityLabel": "240p"
+    },
+    "160": {
+      "bitrate": 110574,
+      "qualityLabel": "144p"
+    },
+    "278": {
+      "bitrate": 100842,
+      "qualityLabel": "144p"
+    },
+    "394": {
+      "bitrate": 129803,
+      "qualityLabel": "144p"
+    }
+  },
+  "aXwCrtAo4Wc": {
+    "18": {
+      "bitrate": 214259,
+      "qualityLabel": "360p"
+    },
+    "22": {
+      "bitrate": 224064,
+      "qualityLabel": "720p"
+    },
+    "136": {
+      "bitrate": 676712,
+      "qualityLabel": "720p"
+    },
+    "247": {
+      "bitrate": 574741,
+      "qualityLabel": "720p"
+    },
+    "135": {
+      "bitrate": 297312,
+      "qualityLabel": "480p"
+    },
+    "244": {
+      "bitrate": 304903,
+      "qualityLabel": "480p"
+    },
+    "134": {
+      "bitrate": 173326,
+      "qualityLabel": "360p"
+    },
+    "243": {
+      "bitrate": 165635,
+      "qualityLabel": "360p"
+    },
+    "133": {
+      "bitrate": 85365,
+      "qualityLabel": "240p"
+    },
+    "242": {
+      "bitrate": 95324,
+      "qualityLabel": "240p"
+    },
+    "160": {
+      "bitrate": 36330,
+      "qualityLabel": "144p"
+    },
+    "278": {
+      "bitrate": 94110,
+      "qualityLabel": "144p"
+    }
+  },
+  "b_0At3AI5vI": {
+    "18": {
+      "bitrate": 563777,
+      "qualityLabel": "360p"
+    },
+    "22": {
+      "bitrate": 669564,
+      "qualityLabel": "720p"
+    },
+    "137": {
+      "bitrate": 4391495,
+      "qualityLabel": "1080p"
+    },
+    "248": {
+      "bitrate": 2681603,
+      "qualityLabel": "1080p"
+    },
+    "136": {
+      "bitrate": 1828212,
+      "qualityLabel": "720p"
+    },
+    "247": {
+      "bitrate": 1518662,
+      "qualityLabel": "720p"
+    },
+    "135": {
+      "bitrate": 1056725,
+      "qualityLabel": "480p"
+    },
+    "244": {
+      "bitrate": 763251,
+      "qualityLabel": "480p"
+    },
+    "134": {
+      "bitrate": 559435,
+      "qualityLabel": "360p"
+    },
+    "243": {
+      "bitrate": 412675,
+      "qualityLabel": "360p"
+    },
+    "133": {
+      "bitrate": 270955,
+      "qualityLabel": "240p"
+    },
+    "242": {
+      "bitrate": 225369,
+      "qualityLabel": "240p"
+    },
+    "160": {
+      "bitrate": 115143,
+      "qualityLabel": "144p"
+    },
+    "278": {
+      "bitrate": 97798,
+      "qualityLabel": "144p"
+    }
+  },
+  "C6jJg9Zan7w": {
+    "18": {
+      "bitrate": 251393,
+      "qualityLabel": "360p"
+    },
+    "22": {
+      "bitrate": 229721,
+      "qualityLabel": "720p"
+    },
+    "136": {
+      "bitrate": 285961,
+      "qualityLabel": "720p"
+    },
+    "247": {
+      "bitrate": 346557,
+      "qualityLabel": "720p"
+    },
+    "135": {
+      "bitrate": 180165,
+      "qualityLabel": "480p"
+    },
+    "244": {
+      "bitrate": 181468,
+      "qualityLabel": "480p"
+    },
+    "134": {
+      "bitrate": 114439,
+      "qualityLabel": "360p"
+    },
+    "243": {
+      "bitrate": 134456,
+      "qualityLabel": "360p"
+    },
+    "133": {
+      "bitrate": 56043,
+      "qualityLabel": "240p"
+    },
+    "242": {
+      "bitrate": 68171,
+      "qualityLabel": "240p"
+    },
+    "160": {
+      "bitrate": 28789,
+      "qualityLabel": "144p"
+    },
+    "278": {
+      "bitrate": 63937,
+      "qualityLabel": "144p"
+    }
+  },
+  "fSbINA1WWRs": {
+    "18": {
+      "bitrate": 522718,
+      "qualityLabel": "360p"
+    },
+    "22": {
+      "bitrate": 1536679,
+      "qualityLabel": "720p"
+    },
+    "137": {
+      "bitrate": 5210391,
+      "qualityLabel": "1080p"
+    },
+    "248": {
+      "bitrate": 2690582,
+      "qualityLabel": "1080p"
+    },
+    "399": {
+      "bitrate": 2245953,
+      "qualityLabel": "1080p"
+    },
+    "136": {
+      "bitrate": 2429179,
+      "qualityLabel": "720p"
+    },
+    "247": {
+      "bitrate": 1544164,
+      "qualityLabel": "720p"
+    },
+    "398": {
+      "bitrate": 1222420,
+      "qualityLabel": "720p"
+    },
+    "135": {
+      "bitrate": 1431404,
+      "qualityLabel": "480p"
+    },
+    "244": {
+      "bitrate": 776524,
+      "qualityLabel": "480p"
+    },
+    "397": {
+      "bitrate": 649502,
+      "qualityLabel": "480p"
+    },
+    "134": {
+      "bitrate": 804512,
+      "qualityLabel": "360p"
+    },
+    "243": {
+      "bitrate": 419053,
+      "qualityLabel": "360p"
+    },
+    "396": {
+      "bitrate": 364288,
+      "qualityLabel": "360p"
+    },
+    "133": {
+      "bitrate": 373233,
+      "qualityLabel": "240p"
+    },
+    "242": {
+      "bitrate": 229419,
+      "qualityLabel": "240p"
+    },
+    "395": {
+      "bitrate": 180177,
+      "qualityLabel": "240p"
+    },
+    "160": {
+      "bitrate": 159338,
+      "qualityLabel": "144p"
+    },
+    "278": {
+      "bitrate": 102020,
+      "qualityLabel": "144p"
+    },
+    "394": {
+      "bitrate": 83206,
+      "qualityLabel": "144p"
+    }
+  },
+  "g1dJQAs65O8": {
+    "18": {
+      "bitrate": 473930,
+      "qualityLabel": "360p"
+    },
+    "22": {
+      "bitrate": 974875,
+      "qualityLabel": "720p"
+    },
+    "137": {
+      "bitrate": 4365305,
+      "qualityLabel": "1080p"
+    },
+    "248": {
+      "bitrate": 2670674,
+      "qualityLabel": "1080p"
+    },
+    "399": {
+      "bitrate": 2397422,
+      "qualityLabel": "1080p"
+    },
+    "136": {
+      "bitrate": 2345260,
+      "qualityLabel": "720p"
+    },
+    "247": {
+      "bitrate": 1509210,
+      "qualityLabel": "720p"
+    },
+    "398": {
+      "bitrate": 1305968,
+      "qualityLabel": "720p"
+    },
+    "135": {
+      "bitrate": 1168474,
+      "qualityLabel": "480p"
+    },
+    "244": {
+      "bitrate": 763919,
+      "qualityLabel": "480p"
+    },
+    "397": {
+      "bitrate": 616686,
+      "qualityLabel": "480p"
+    },
+    "134": {
+      "bitrate": 633847,
+      "qualityLabel": "360p"
+    },
+    "243": {
+      "bitrate": 422574,
+      "qualityLabel": "360p"
+    },
+    "396": {
+      "bitrate": 356232,
+      "qualityLabel": "360p"
+    },
+    "133": {
+      "bitrate": 245582,
+      "qualityLabel": "240p"
+    },
+    "242": {
+      "bitrate": 234490,
+      "qualityLabel": "240p"
+    },
+    "395": {
+      "bitrate": 196683,
+      "qualityLabel": "240p"
+    },
+    "160": {
+      "bitrate": 120491,
+      "qualityLabel": "144p"
+    },
+    "278": {
+      "bitrate": 110427,
+      "qualityLabel": "144p"
+    },
+    "394": {
+      "bitrate": 84673,
+      "qualityLabel": "144p"
+    }
+  },
+  "iqnSO7azw9A": {
+    "18": {
+      "bitrate": 519167,
+      "qualityLabel": "360p"
+    },
+    "22": {
+      "bitrate": 622743,
+      "qualityLabel": "720p"
+    },
+    "137": {
+      "bitrate": 4410821,
+      "qualityLabel": "1080p"
+    },
+    "248": {
+      "bitrate": 2687491,
+      "qualityLabel": "1080p"
+    },
+    "136": {
+      "bitrate": 1492784,
+      "qualityLabel": "720p"
+    },
+    "247": {
+      "bitrate": 1503795,
+      "qualityLabel": "720p"
+    },
+    "135": {
+      "bitrate": 862962,
+      "qualityLabel": "480p"
+    },
+    "244": {
+      "bitrate": 760596,
+      "qualityLabel": "480p"
+    },
+    "134": {
+      "bitrate": 628192,
+      "qualityLabel": "360p"
+    },
+    "243": {
+      "bitrate": 417481,
+      "qualityLabel": "360p"
+    },
+    "133": {
+      "bitrate": 329537,
+      "qualityLabel": "240p"
+    },
+    "242": {
+      "bitrate": 229624,
+      "qualityLabel": "240p"
+    },
+    "160": {
+      "bitrate": 121252,
+      "qualityLabel": "144p"
+    },
+    "278": {
+      "bitrate": 112188,
+      "qualityLabel": "144p"
+    }
+  },
+  "jSJ6uLkf35g": {
+    "18": {
+      "bitrate": 485528,
+      "qualityLabel": "360p"
+    },
+    "22": {
+      "bitrate": 654866,
+      "qualityLabel": "720p"
+    },
+    "137": {
+      "bitrate": 4333827,
+      "qualityLabel": "1080p"
+    },
+    "248": {
+      "bitrate": 2664657,
+      "qualityLabel": "1080p"
+    },
+    "136": {
+      "bitrate": 1563897,
+      "qualityLabel": "720p"
+    },
+    "247": {
+      "bitrate": 1520828,
+      "qualityLabel": "720p"
+    },
+    "135": {
+      "bitrate": 1130792,
+      "qualityLabel": "480p"
+    },
+    "244": {
+      "bitrate": 755584,
+      "qualityLabel": "480p"
+    },
+    "134": {
+      "bitrate": 632361,
+      "qualityLabel": "360p"
+    },
+    "243": {
+      "bitrate": 411443,
+      "qualityLabel": "360p"
+    },
+    "133": {
+      "bitrate": 244718,
+      "qualityLabel": "240p"
+    },
+    "242": {
+      "bitrate": 202124,
+      "qualityLabel": "240p"
+    },
+    "160": {
+      "bitrate": 110539,
+      "qualityLabel": "144p"
+    },
+    "278": {
+      "bitrate": 102752,
+      "qualityLabel": "144p"
+    }
+  },
+  "KfugZksSp5g": {
+    "18": {
+      "bitrate": 471658,
+      "qualityLabel": "360p"
+    },
+    "22": {
+      "bitrate": 570596,
+      "qualityLabel": "720p"
+    },
+    "137": {
+      "bitrate": 4401038,
+      "qualityLabel": "1080p"
+    },
+    "248": {
+      "bitrate": 2695707,
+      "qualityLabel": "1080p"
+    },
+    "399": {
+      "bitrate": 2383630,
+      "qualityLabel": "1080p"
+    },
+    "136": {
+      "bitrate": 1523505,
+      "qualityLabel": "720p"
+    },
+    "247": {
+      "bitrate": 1445576,
+      "qualityLabel": "720p"
+    },
+    "398": {
+      "bitrate": 1325287,
+      "qualityLabel": "720p"
+    },
+    "135": {
+      "bitrate": 833888,
+      "qualityLabel": "480p"
+    },
+    "244": {
+      "bitrate": 745184,
+      "qualityLabel": "480p"
+    },
+    "397": {
+      "bitrate": 639453,
+      "qualityLabel": "480p"
+    },
+    "134": {
+      "bitrate": 536958,
+      "qualityLabel": "360p"
+    },
+    "243": {
+      "bitrate": 410262,
+      "qualityLabel": "360p"
+    },
+    "396": {
+      "bitrate": 360583,
+      "qualityLabel": "360p"
+    },
+    "133": {
+      "bitrate": 301790,
+      "qualityLabel": "240p"
+    },
+    "242": {
+      "bitrate": 224388,
+      "qualityLabel": "240p"
+    },
+    "395": {
+      "bitrate": 208734,
+      "qualityLabel": "240p"
+    },
+    "160": {
+      "bitrate": 134435,
+      "qualityLabel": "144p"
+    },
+    "278": {
+      "bitrate": 97930,
+      "qualityLabel": "144p"
+    },
+    "394": {
+      "bitrate": 90950,
+      "qualityLabel": "144p"
+    }
+  },
+  "LEJVf5S8mF8": {
+    "18": {
+      "bitrate": 466555,
+      "qualityLabel": "360p"
+    },
+    "22": {
+      "bitrate": 553618,
+      "qualityLabel": "720p"
+    },
+    "137": {
+      "bitrate": 3240474,
+      "qualityLabel": "1080p"
+    },
+    "248": {
+      "bitrate": 2651834,
+      "qualityLabel": "1080p"
+    },
+    "136": {
+      "bitrate": 1160923,
+      "qualityLabel": "720p"
+    },
+    "247": {
+      "bitrate": 1125427,
+      "qualityLabel": "720p"
+    },
+    "135": {
+      "bitrate": 697892,
+      "qualityLabel": "480p"
+    },
+    "244": {
+      "bitrate": 684508,
+      "qualityLabel": "480p"
+    },
+    "397": {
+      "bitrate": 646919,
+      "qualityLabel": "480p"
+    },
+    "134": {
+      "bitrate": 434622,
+      "qualityLabel": "360p"
+    },
+    "243": {
+      "bitrate": 412442,
+      "qualityLabel": "360p"
+    },
+    "396": {
+      "bitrate": 406223,
+      "qualityLabel": "360p"
+    },
+    "133": {
+      "bitrate": 246940,
+      "qualityLabel": "240p"
+    },
+    "242": {
+      "bitrate": 227470,
+      "qualityLabel": "240p"
+    },
+    "395": {
+      "bitrate": 213957,
+      "qualityLabel": "240p"
+    },
+    "160": {
+      "bitrate": 114208,
+      "qualityLabel": "144p"
+    },
+    "394": {
+      "bitrate": 91798,
+      "qualityLabel": "144p"
+    },
+    "278": {
+      "bitrate": 97716,
+      "qualityLabel": "144p"
+    }
+  },
+  "N_pNS1wF6gA": {
+    "18": {
+      "bitrate": 480150,
+      "qualityLabel": "360p"
+    },
+    "22": {
+      "bitrate": 578063,
+      "qualityLabel": "720p"
+    },
+    "137": {
+      "bitrate": 4392563,
+      "qualityLabel": "1080p"
+    },
+    "248": {
+      "bitrate": 2663381,
+      "qualityLabel": "1080p"
+    },
+    "399": {
+      "bitrate": 2347237,
+      "qualityLabel": "1080p"
+    },
+    "136": {
+      "bitrate": 1266594,
+      "qualityLabel": "720p"
+    },
+    "247": {
+      "bitrate": 1332892,
+      "qualityLabel": "720p"
+    },
+    "398": {
+      "bitrate": 1375039,
+      "qualityLabel": "720p"
+    },
+    "135": {
+      "bitrate": 720436,
+      "qualityLabel": "480p"
+    },
+    "244": {
+      "bitrate": 748719,
+      "qualityLabel": "480p"
+    },
+    "397": {
+      "bitrate": 653642,
+      "qualityLabel": "480p"
+    },
+    "134": {
+      "bitrate": 483518,
+      "qualityLabel": "360p"
+    },
+    "243": {
+      "bitrate": 411263,
+      "qualityLabel": "360p"
+    },
+    "396": {
+      "bitrate": 370398,
+      "qualityLabel": "360p"
+    },
+    "133": {
+      "bitrate": 269212,
+      "qualityLabel": "240p"
+    },
+    "242": {
+      "bitrate": 224261,
+      "qualityLabel": "240p"
+    },
+    "395": {
+      "bitrate": 219605,
+      "qualityLabel": "240p"
+    },
+    "160": {
+      "bitrate": 121964,
+      "qualityLabel": "144p"
+    },
+    "278": {
+      "bitrate": 98213,
+      "qualityLabel": "144p"
+    },
+    "394": {
+      "bitrate": 91798,
+      "qualityLabel": "144p"
+    }
+  },
+  "PJVtsVpsAWo": {
+    "18": {
+      "bitrate": 590199,
+      "qualityLabel": "360p"
+    },
+    "22": {
+      "bitrate": 841922,
+      "qualityLabel": "720p"
+    },
+    "137": {
+      "bitrate": 4461354,
+      "qualityLabel": "1080p"
+    },
+    "248": {
+      "bitrate": 2669654,
+      "qualityLabel": "1080p"
+    },
+    "399": {
+      "bitrate": 2727804,
+      "qualityLabel": "1080p"
+    },
+    "136": {
+      "bitrate": 2296498,
+      "qualityLabel": "720p"
+    },
+    "247": {
+      "bitrate": 1532908,
+      "qualityLabel": "720p"
+    },
+    "398": {
+      "bitrate": 1450267,
+      "qualityLabel": "720p"
+    },
+    "135": {
+      "bitrate": 1095211,
+      "qualityLabel": "480p"
+    },
+    "244": {
+      "bitrate": 759596,
+      "qualityLabel": "480p"
+    },
+    "397": {
+      "bitrate": 749992,
+      "qualityLabel": "480p"
+    },
+    "134": {
+      "bitrate": 722384,
+      "qualityLabel": "360p"
+    },
+    "243": {
+      "bitrate": 414489,
+      "qualityLabel": "360p"
+    },
+    "396": {
+      "bitrate": 406223,
+      "qualityLabel": "360p"
+    },
+    "133": {
+      "bitrate": 358872,
+      "qualityLabel": "240p"
+    },
+    "242": {
+      "bitrate": 226746,
+      "qualityLabel": "240p"
+    },
+    "395": {
+      "bitrate": 215067,
+      "qualityLabel": "240p"
+    },
+    "160": {
+      "bitrate": 119108,
+      "qualityLabel": "144p"
+    },
+    "278": {
+      "bitrate": 145491,
+      "qualityLabel": "144p"
+    },
+    "394": {
+      "bitrate": 97530,
+      "qualityLabel": "144p"
+    }
+  },
+  "SqQIvR0N3lk": {
+    "18": {
+      "bitrate": 446045,
+      "qualityLabel": "360p"
+    },
+    "22": {
+      "bitrate": 1521286,
+      "qualityLabel": "720p"
+    },
+    "137": {
+      "bitrate": 4479225,
+      "qualityLabel": "1080p"
+    },
+    "248": {
+      "bitrate": 2703025,
+      "qualityLabel": "1080p"
+    },
+    "399": {
+      "bitrate": 2572111,
+      "qualityLabel": "1080p"
+    },
+    "136": {
+      "bitrate": 2333240,
+      "qualityLabel": "720p"
+    },
+    "247": {
+      "bitrate": 1513639,
+      "qualityLabel": "720p"
+    },
+    "398": {
+      "bitrate": 1525218,
+      "qualityLabel": "720p"
+    },
+    "135": {
+      "bitrate": 1172893,
+      "qualityLabel": "480p"
+    },
+    "244": {
+      "bitrate": 769879,
+      "qualityLabel": "480p"
+    },
+    "397": {
+      "bitrate": 721288,
+      "qualityLabel": "480p"
+    },
+    "134": {
+      "bitrate": 646273,
+      "qualityLabel": "360p"
+    },
+    "243": {
+      "bitrate": 425323,
+      "qualityLabel": "360p"
+    },
+    "396": {
+      "bitrate": 385709,
+      "qualityLabel": "360p"
+    },
+    "133": {
+      "bitrate": 268790,
+      "qualityLabel": "240p"
+    },
+    "242": {
+      "bitrate": 234121,
+      "qualityLabel": "240p"
+    },
+    "395": {
+      "bitrate": 182033,
+      "qualityLabel": "240p"
+    },
+    "160": {
+      "bitrate": 121506,
+      "qualityLabel": "144p"
+    },
+    "278": {
+      "bitrate": 106479,
+      "qualityLabel": "144p"
+    },
+    "394": {
+      "bitrate": 80818,
+      "qualityLabel": "144p"
+    }
+  },
+  "VbpF3vuPGYw": {
+    "18": {
+      "bitrate": 494209,
+      "qualityLabel": "360p"
+    },
+    "22": {
+      "bitrate": 590232,
+      "qualityLabel": "720p"
+    },
+    "137": {
+      "bitrate": 4524018,
+      "qualityLabel": "1080p"
+    },
+    "248": {
+      "bitrate": 2695645,
+      "qualityLabel": "1080p"
+    },
+    "399": {
+      "bitrate": 2737973,
+      "qualityLabel": "1080p"
+    },
+    "136": {
+      "bitrate": 2036554,
+      "qualityLabel": "720p"
+    },
+    "247": {
+      "bitrate": 1538814,
+      "qualityLabel": "720p"
+    },
+    "398": {
+      "bitrate": 1481994,
+      "qualityLabel": "720p"
+    },
+    "135": {
+      "bitrate": 1038042,
+      "qualityLabel": "480p"
+    },
+    "244": {
+      "bitrate": 771718,
+      "qualityLabel": "480p"
+    },
+    "397": {
+      "bitrate": 730978,
+      "qualityLabel": "480p"
+    },
+    "134": {
+      "bitrate": 554223,
+      "qualityLabel": "360p"
+    },
+    "243": {
+      "bitrate": 425268,
+      "qualityLabel": "360p"
+    },
+    "396": {
+      "bitrate": 392996,
+      "qualityLabel": "360p"
+    },
+    "133": {
+      "bitrate": 280228,
+      "qualityLabel": "240p"
+    },
+    "242": {
+      "bitrate": 234068,
+      "qualityLabel": "240p"
+    },
+    "395": {
+      "bitrate": 203728,
+      "qualityLabel": "240p"
+    },
+    "160": {
+      "bitrate": 120696,
+      "qualityLabel": "144p"
+    },
+    "278": {
+      "bitrate": 106404,
+      "qualityLabel": "144p"
+    },
+    "394": {
+      "bitrate": 87279,
+      "qualityLabel": "144p"
+    }
+  },
+  "Vjw7wAZqSM4": {
+    "18": {
+      "bitrate": 236132,
+      "qualityLabel": "360p"
+    },
+    "22": {
+      "bitrate": 227550,
+      "qualityLabel": "720p"
+    },
+    "136": {
+      "bitrate": 276278,
+      "qualityLabel": "720p"
+    },
+    "247": {
+      "bitrate": 553381,
+      "qualityLabel": "720p"
+    },
+    "135": {
+      "bitrate": 167066,
+      "qualityLabel": "480p"
+    },
+    "244": {
+      "bitrate": 230426,
+      "qualityLabel": "480p"
+    },
+    "134": {
+      "bitrate": 87420,
+      "qualityLabel": "360p"
+    },
+    "243": {
+      "bitrate": 114965,
+      "qualityLabel": "360p"
+    },
+    "133": {
+      "bitrate": 42443,
+      "qualityLabel": "240p"
+    },
+    "242": {
+      "bitrate": 72274,
+      "qualityLabel": "240p"
+    },
+    "160": {
+      "bitrate": 22228,
+      "qualityLabel": "144p"
+    },
+    "278": {
+      "bitrate": 51070,
+      "qualityLabel": "144p"
+    }
+  },
+  "x7GvOM4zULI": {
+    "18": {
+      "bitrate": 489677,
+      "qualityLabel": "360p"
+    },
+    "22": {
+      "bitrate": 659109,
+      "qualityLabel": "720p"
+    },
+    "137": {
+      "bitrate": 4334404,
+      "qualityLabel": "1080p"
+    },
+    "248": {
+      "bitrate": 2672579,
+      "qualityLabel": "1080p"
+    },
+    "399": {
+      "bitrate": 2450341,
+      "qualityLabel": "1080p"
+    },
+    "136": {
+      "bitrate": 1346356,
+      "qualityLabel": "720p"
+    },
+    "247": {
+      "bitrate": 1519416,
+      "qualityLabel": "720p"
+    },
+    "398": {
+      "bitrate": 1467252,
+      "qualityLabel": "720p"
+    },
+    "135": {
+      "bitrate": 976131,
+      "qualityLabel": "480p"
+    },
+    "244": {
+      "bitrate": 766357,
+      "qualityLabel": "480p"
+    },
+    "397": {
+      "bitrate": 759071,
+      "qualityLabel": "480p"
+    },
+    "134": {
+      "bitrate": 632542,
+      "qualityLabel": "360p"
+    },
+    "243": {
+      "bitrate": 423942,
+      "qualityLabel": "360p"
+    },
+    "396": {
+      "bitrate": 446529,
+      "qualityLabel": "360p"
+    },
+    "133": {
+      "bitrate": 244788,
+      "qualityLabel": "240p"
+    },
+    "242": {
+      "bitrate": 202320,
+      "qualityLabel": "240p"
+    },
+    "395": {
+      "bitrate": 277285,
+      "qualityLabel": "240p"
+    },
+    "160": {
+      "bitrate": 111260,
+      "qualityLabel": "144p"
+    },
+    "278": {
+      "bitrate": 102889,
+      "qualityLabel": "144p"
+    },
+    "394": {
+      "bitrate": 117468,
+      "qualityLabel": "144p"
+    }
+  },
+  "ZAWKCE2DX5s": {
+    "18": {
+      "bitrate": 403889,
+      "qualityLabel": "360p"
+    },
+    "22": {
+      "bitrate": 1396696,
+      "qualityLabel": "720p"
+    },
+    "137": {
+      "bitrate": 5172840,
+      "qualityLabel": "1080p"
+    },
+    "399": {
+      "bitrate": 2437251,
+      "qualityLabel": "1080p"
+    },
+    "397": {
+  	  "bitrate": 435384,
+  	  "qualityLabel": "480p"
+    },
+    "136": {
+      "bitrate": 2345281,
+      "qualityLabel": "720p"
+    },
+    "135": {
+      "bitrate": 1296731,
+      "qualityLabel": "480p"
+    },
+    "134": {
+      "bitrate": 625264,
+      "qualityLabel": "360p"
+    },
+    "133": {
+      "bitrate": 284389,
+      "qualityLabel": "240p"
+    },
+    "160": {
+      "bitrate": 130359,
+      "qualityLabel": "144p"
+    }
+  },
+  "ziruq8L5RBk": {
+    "18": {
+      "bitrate": 526618,
+      "qualityLabel": "360p"
+    },
+    "22": {
+      "bitrate": 668658,
+      "qualityLabel": "720p"
+    },
+    "137": {
+      "bitrate": 4401715,
+      "qualityLabel": "1080p"
+    },
+    "248": {
+      "bitrate": 2660894,
+      "qualityLabel": "1080p"
+    },
+    "399": {
+      "bitrate": 2437251,
+      "qualityLabel": "1080p"
+    },
+    "136": {
+      "bitrate": 1730603,
+      "qualityLabel": "720p"
+    },
+    "247": {
+      "bitrate": 1502287,
+      "qualityLabel": "720p"
+    },
+    "398": {
+      "bitrate": 1409070,
+      "qualityLabel": "720p"
+    },
+    "135": {
+      "bitrate": 984259,
+      "qualityLabel": "480p"
+    },
+    "244": {
+      "bitrate": 761689,
+      "qualityLabel": "480p"
+    },
+    "397": {
+      "bitrate": 751978,
+      "qualityLabel": "480p"
+    },
+    "134": {
+      "bitrate": 580369,
+      "qualityLabel": "360p"
+    },
+    "243": {
+      "bitrate": 414672,
+      "qualityLabel": "360p"
+    },
+    "396": {
+      "bitrate": 407647,
+      "qualityLabel": "360p"
+    },
+    "133": {
+      "bitrate": 232716,
+      "qualityLabel": "240p"
+    },
+    "242": {
+      "bitrate": 226689,
+      "qualityLabel": "240p"
+    },
+    "395": {
+      "bitrate": 191614,
+      "qualityLabel": "240p"
+    },
+    "160": {
+      "bitrate": 151668,
+      "qualityLabel": "144p"
+    },
+    "278": {
+      "bitrate": 97831,
+      "qualityLabel": "144p"
+    },
+    "394": {
+      "bitrate": 96002,
+      "qualityLabel": "144p"
+    }
+  },
+  "O6Iiy_YOe4Y": {
+    "18": {
+      "bitrate": 511837,
+      "qualityLabel": "360p"
+    },
+    "22": {
+      "bitrate": 647564,
+      "qualityLabel": "720p"
+    },
+    "137": {
+      "bitrate": 4669287,
+      "qualityLabel": "1080p"
+    },
+    "248": {
+      "bitrate": 2676486,
+      "qualityLabel": "1080p"
+    },
+    "399": {
+      "bitrate": 2200971,
+      "qualityLabel": "1080p"
+    },
+    "136": {
+      "bitrate": 1163508,
+      "qualityLabel": "720p"
+    },
+    "247": {
+      "bitrate": 1464992,
+      "qualityLabel": "720p"
+    },
+    "398": {
+      "bitrate": 1271231,
+      "qualityLabel": "720p"
+    },
+    "135": {
+      "bitrate": 833906,
+      "qualityLabel": "480p"
+    },
+    "244": {
+      "bitrate": 736885,
+      "qualityLabel": "480p"
+    },
+    "397": {
+      "bitrate": 705152,
+      "qualityLabel": "480p"
+    },
+    "134": {
+      "bitrate": 619775,
+      "qualityLabel": "360p"
+    },
+    "243": {
+      "bitrate": 412766,
+      "qualityLabel": "360p"
+    },
+    "396": {
+      "bitrate": 393146,
+      "qualityLabel": "360p"
+    },
+    "133": {
+      "bitrate": 298210,
+      "qualityLabel": "240p"
+    },
+    "242": {
+      "bitrate": 228568,
+      "qualityLabel": "240p"
+    },
+    "395": {
+      "bitrate": 182149,
+      "qualityLabel": "240p"
+    },
+    "160": {
+      "bitrate": 111857,
+      "qualityLabel": "144p"
+    },
+    "278": {
+      "bitrate": 116031,
+      "qualityLabel": "144p"
+    },
+    "394": {
+      "bitrate": 85433,
+      "qualityLabel": "144p"
+    }
+  },
+  "PvLauGfc_ys": {
+    "18": {
+      "bitrate": 740088,
+      "qualityLabel": "360p"
+    },
+    "22": {
+      "bitrate": 3022305,
+      "qualityLabel": "720p"
+    },
+    "299": {
+      "bitrate": 6982881,
+      "qualityLabel": "1080p50"
+    },
+    "303": {
+      "bitrate": 9136723,
+      "qualityLabel": "1080p50"
+    },
+    "399": {
+      "bitrate": 4747596,
+      "qualityLabel": "1080p50"
+    },
+    "136": {
+      "bitrate": 13715254,
+      "qualityLabel": "720p"
+    },
+    "247": {
+      "bitrate": 1633789,
+      "qualityLabel": "720p"
+    },
+    "298": {
+      "bitrate": 3397410,
+      "qualityLabel": "720p50"
+    },
+    "302": {
+      "bitrate": 5129704,
+      "qualityLabel": "720p50"
+    },
+    "398": {
+      "bitrate": 2501798,
+      "qualityLabel": "720p50"
+    },
+    "135": {
+      "bitrate": 1569301,
+      "qualityLabel": "480p"
+    },
+    "244": {
+      "bitrate": 1468218,
+      "qualityLabel": "480p"
+    },
+    "397": {
+      "bitrate": 874101,
+      "qualityLabel": "480p"
+    },
+    "134": {
+      "bitrate": 916779,
+      "qualityLabel": "360p"
+    },
+    "243": {
+      "bitrate": 878787,
+      "qualityLabel": "360p"
+    },
+    "396": {
+      "bitrate": 507785,
+      "qualityLabel": "360p"
+    },
+    "133": {
+      "bitrate": 402459,
+      "qualityLabel": "240p"
+    },
+    "242": {
+      "bitrate": 331589,
+      "qualityLabel": "240p"
+    },
+    "395": {
+      "bitrate": 238078,
+      "qualityLabel": "240p"
+    },
+    "160": {
+      "bitrate": 144426,
+      "qualityLabel": "144p"
+    },
+    "278": {
+      "bitrate": 123342,
+      "qualityLabel": "144p"
+    },
+    "394": {
+      "bitrate": 93992,
+      "qualityLabel": "144p"
+    }
+  },
+  "Unzc731iCUY": {
+    "18": {
+      "bitrate": 399178,
+      "qualityLabel": "360p"
+    },
+    "22": {
+      "bitrate": 450382,
+      "qualityLabel": "720p"
+    },
+    "137": {
+      "bitrate": 4228682,
+      "qualityLabel": "1080p"
+    },
+    "248": {
+      "bitrate": 2653630,
+      "qualityLabel": "1080p"
+    },
+    "399": {
+      "bitrate": 2384230,
+      "qualityLabel": "1080p"
+    },
+    "136": {
+      "bitrate": 1320359,
+      "qualityLabel": "720p"
+    },
+    "247": {
+      "bitrate": 1492082,
+      "qualityLabel": "720p"
+    },
+    "398": {
+      "bitrate": 1337190,
+      "qualityLabel": "720p"
+    },
+    "135": {
+      "bitrate": 950151,
+      "qualityLabel": "480p"
+    },
+    "244": {
+      "bitrate": 748895,
+      "qualityLabel": "480p"
+    },
+    "397": {
+      "bitrate": 646919,
+      "qualityLabel": "480p"
+    },
+    "134": {
+      "bitrate": 480604,
+      "qualityLabel": "360p"
+    },
+    "243": {
+      "bitrate": 409574,
+      "qualityLabel": "360p"
+    },
+    "396": {
+      "bitrate": 348086,
+      "qualityLabel": "360p"
+    },
+    "133": {
+      "bitrate": 232449,
+      "qualityLabel": "240p"
+    },
+    "242": {
+      "bitrate": 216668,
+      "qualityLabel": "240p"
+    },
+    "395": {
+      "bitrate": 183824,
+      "qualityLabel": "240p"
+    },
+    "160": {
+      "bitrate": 105945,
+      "qualityLabel": "144p"
+    },
+    "278": {
+      "bitrate": 97961,
+      "qualityLabel": "144p"
+    },
+    "394": {
+      "bitrate": 81894,
+      "qualityLabel": "144p"
+    }
+  },
+  "44U8AY7iXwM": {
+    "18": {
+      "bitrate": 549646,
+      "qualityLabel": "360p"
+    },
+    "22": {
+      "bitrate": 663508,
+      "qualityLabel": "720p"
+    },
+    "137": {
+      "bitrate": 4473027,
+      "qualityLabel": "1080p"
+    },
+    "248": {
+      "bitrate": 2704857,
+      "qualityLabel": "1080p"
+    },
+    "136": {
+      "bitrate": 1475356,
+      "qualityLabel": "720p"
+    },
+    "247": {
+      "bitrate": 1511163,
+      "qualityLabel": "720p"
+    },
+    "135": {
+      "bitrate": 842899,
+      "qualityLabel": "480p"
+    },
+    "244": {
+      "bitrate": 755387,
+      "qualityLabel": "480p"
+    },
+    "134": {
+      "bitrate": 597150,
+      "qualityLabel": "360p"
+    },
+    "243": {
+      "bitrate": 411522,
+      "qualityLabel": "360p"
+    },
+    "133": {
+      "bitrate": 292579,
+      "qualityLabel": "240p"
+    },
+    "242": {
+      "bitrate": 225418,
+      "qualityLabel": "240p"
+    },
+    "160": {
+      "bitrate": 156395,
+      "qualityLabel": "144p"
+    },
+    "278": {
+      "bitrate": 101124,
+      "qualityLabel": "144p"
+    }
+  },
+  "1vhJrQ6jjfI": {
+    "18": {
+      "bitrate": 449577,
+      "qualityLabel": "360p"
+    },
+    "22": {
+      "bitrate": 1265349,
+      "qualityLabel": "720p"
+    },
+    "136": {
+      "bitrate": 1208575,
+      "qualityLabel": "720p"
+    },
+    "247": {
+      "bitrate": 1264748,
+      "qualityLabel": "720p"
+    },
+    "135": {
+      "bitrate": 517309,
+      "qualityLabel": "480p"
+    },
+    "244": {
+      "bitrate": 664314,
+      "qualityLabel": "480p"
+    },
+    "134": {
+      "bitrate": 282776,
+      "qualityLabel": "360p"
+    },
+    "243": {
+      "bitrate": 390213,
+      "qualityLabel": "360p"
+    },
+    "133": {
+      "bitrate": 164234,
+      "qualityLabel": "240p"
+    },
+    "242": {
+      "bitrate": 191445,
+      "qualityLabel": "240p"
+    },
+    "160": {
+      "bitrate": 71406,
+      "qualityLabel": "144p"
+    },
+    "278": {
+      "bitrate": 111875,
+      "qualityLabel": "144p"
+    }
+  },
+  "4b4MUYve_U8": {
+    "18": {
+      "bitrate": 365267,
+      "qualityLabel": "360p"
+    },
+    "22": {
+      "bitrate": 704681,
+      "qualityLabel": "720p"
+    },
+    "136": {
+      "bitrate": 1120771,
+      "qualityLabel": "720p"
+    },
+    "247": {
+      "bitrate": 924904,
+      "qualityLabel": "720p"
+    },
+    "398": {
+      "bitrate": 878184,
+      "qualityLabel": "720p"
+    },
+    "135": {
+      "bitrate": 507562,
+      "qualityLabel": "480p"
+    },
+    "244": {
+      "bitrate": 506056,
+      "qualityLabel": "480p"
+    },
+    "397": {
+      "bitrate": 435384,
+      "qualityLabel": "480p"
+    },
+    "134": {
+      "bitrate": 232142,
+      "qualityLabel": "360p"
+    },
+    "243": {
+      "bitrate": 315426,
+      "qualityLabel": "360p"
+    },
+    "396": {
+      "bitrate": 250427,
+      "qualityLabel": "360p"
+    },
+    "133": {
+      "bitrate": 120505,
+      "qualityLabel": "240p"
+    },
+    "242": {
+      "bitrate": 157495,
+      "qualityLabel": "240p"
+    },
+    "395": {
+      "bitrate": 141513,
+      "qualityLabel": "240p"
+    },
+    "160": {
+      "bitrate": 55429,
+      "qualityLabel": "144p"
+    },
+    "278": {
+      "bitrate": 88797,
+      "qualityLabel": "144p"
+    },
+    "394": {
+      "bitrate": 77508,
+      "qualityLabel": "144p"
+    }
+  },
+  "9-24INx2w7A": {
+    "18": {
+      "bitrate": 374728,
+      "qualityLabel": "360p"
+    },
+    "22": {
+      "bitrate": 654864,
+      "qualityLabel": "720p"
+    },
+    "136": {
+      "bitrate": 1180848,
+      "qualityLabel": "720p"
+    },
+    "247": {
+      "bitrate": 1407580,
+      "qualityLabel": "720p"
+    },
+    "135": {
+      "bitrate": 518635,
+      "qualityLabel": "480p"
+    },
+    "244": {
+      "bitrate": 758163,
+      "qualityLabel": "480p"
+    },
+    "134": {
+      "bitrate": 333128,
+      "qualityLabel": "360p"
+    },
+    "243": {
+      "bitrate": 414080,
+      "qualityLabel": "360p"
+    },
+    "133": {
+      "bitrate": 205991,
+      "qualityLabel": "240p"
+    },
+    "242": {
+      "bitrate": 193303,
+      "qualityLabel": "240p"
+    },
+    "160": {
+      "bitrate": 100117,
+      "qualityLabel": "144p"
+    },
+    "278": {
+      "bitrate": 88012,
+      "qualityLabel": "144p"
+    }
+  },
+  "AnlCPdB4OA4": {
+    "18": {
+      "bitrate": 382843,
+      "qualityLabel": "360p"
+    },
+    "22": {
+      "bitrate": 388377,
+      "qualityLabel": "720p"
+    },
+    "137": {
+      "bitrate": 4027493,
+      "qualityLabel": "1080p"
+    },
+    "248": {
+      "bitrate": 2660117,
+      "qualityLabel": "1080p"
+    },
+    "399": {
+      "bitrate": 2308457,
+      "qualityLabel": "1080p"
+    },
+    "136": {
+      "bitrate": 1246592,
+      "qualityLabel": "720p"
+    },
+    "247": {
+      "bitrate": 1477284,
+      "qualityLabel": "720p"
+    },
+    "398": {
+      "bitrate": 1308467,
+      "qualityLabel": "720p"
+    },
+    "135": {
+      "bitrate": 888115,
+      "qualityLabel": "480p"
+    },
+    "244": {
+      "bitrate": 742107,
+      "qualityLabel": "480p"
+    },
+    "397": {
+      "bitrate": 654033,
+      "qualityLabel": "480p"
+    },
+    "134": {
+      "bitrate": 572040,
+      "qualityLabel": "360p"
+    },
+    "243": {
+      "bitrate": 407084,
+      "qualityLabel": "360p"
+    },
+    "396": {
+      "bitrate": 369152,
+      "qualityLabel": "360p"
+    },
+    "133": {
+      "bitrate": 252482,
+      "qualityLabel": "240p"
+    },
+    "242": {
+      "bitrate": 222737,
+      "qualityLabel": "240p"
+    },
+    "395": {
+      "bitrate": 201647,
+      "qualityLabel": "240p"
+    },
+    "160": {
+      "bitrate": 111085,
+      "qualityLabel": "144p"
+    },
+    "278": {
+      "bitrate": 136712,
+      "qualityLabel": "144p"
+    },
+    "394": {
+      "bitrate": 88611,
+      "qualityLabel": "144p"
+    }
+  },
+  "HsJupanmVJU": {
+    "18": {
+      "bitrate": 339004,
+      "qualityLabel": "360p"
+    },
+    "22": {
+      "bitrate": 232972,
+      "qualityLabel": "720p"
+    },
+    "299": {
+      "bitrate": 1453655,
+      "qualityLabel": "1080p60"
+    },
+    "303": {
+      "bitrate": 1913920,
+      "qualityLabel": "1080p60"
+    },
+    "136": {
+      "bitrate": 283113,
+      "qualityLabel": "720p"
+    },
+    "247": {
+      "bitrate": 645999,
+      "qualityLabel": "720p"
+    },
+    "298": {
+      "bitrate": 941926,
+      "qualityLabel": "720p60"
+    },
+    "302": {
+      "bitrate": 927613,
+      "qualityLabel": "720p60"
+    },
+    "135": {
+      "bitrate": 205720,
+      "qualityLabel": "480p"
+    },
+    "244": {
+      "bitrate": 347163,
+      "qualityLabel": "480p"
+    },
+    "134": {
+      "bitrate": 145065,
+      "qualityLabel": "360p"
+    },
+    "243": {
+      "bitrate": 213015,
+      "qualityLabel": "360p"
+    },
+    "133": {
+      "bitrate": 77789,
+      "qualityLabel": "240p"
+    },
+    "242": {
+      "bitrate": 112209,
+      "qualityLabel": "240p"
+    },
+    "160": {
+      "bitrate": 38345,
+      "qualityLabel": "144p"
+    },
+    "278": {
+      "bitrate": 92221,
+      "qualityLabel": "144p"
+    }
+  },
+  "jEUaZEul13c": {
+    "18": {
+      "bitrate": 692946,
+      "qualityLabel": "360p"
+    },
+    "22": {
+      "bitrate": 2771033,
+      "qualityLabel": "720p"
+    },
+    "137": {
+      "bitrate": 4752117,
+      "qualityLabel": "1080p"
+    },
+    "248": {
+      "bitrate": 2769595,
+      "qualityLabel": "1080p"
+    },
+    "399": {
+      "bitrate": 2645689,
+      "qualityLabel": "1080p"
+    },
+    "136": {
+      "bitrate": 2245757,
+      "qualityLabel": "720p"
+    },
+    "247": {
+      "bitrate": 1543597,
+      "qualityLabel": "720p"
+    },
+    "398": {
+      "bitrate": 1473054,
+      "qualityLabel": "720p"
+    },
+    "135": {
+      "bitrate": 1116771,
+      "qualityLabel": "480p"
+    },
+    "244": {
+      "bitrate": 785774,
+      "qualityLabel": "480p"
+    },
+    "397": {
+      "bitrate": 774597,
+      "qualityLabel": "480p"
+    },
+    "134": {
+      "bitrate": 659810,
+      "qualityLabel": "360p"
+    },
+    "243": {
+      "bitrate": 439491,
+      "qualityLabel": "360p"
+    },
+    "396": {
+      "bitrate": 416731,
+      "qualityLabel": "360p"
+    },
+    "133": {
+      "bitrate": 310037,
+      "qualityLabel": "240p"
+    },
+    "242": {
+      "bitrate": 241256,
+      "qualityLabel": "240p"
+    },
+    "395": {
+      "bitrate": 198687,
+      "qualityLabel": "240p"
+    },
+    "160": {
+      "bitrate": 157789,
+      "qualityLabel": "144p"
+    },
+    "278": {
+      "bitrate": 100327,
+      "qualityLabel": "144p"
+    },
+    "394": {
+      "bitrate": 99796,
+      "qualityLabel": "144p"
+    }
+  },
+  "JzS8rv2i0QA": {
+    "18": {
+      "bitrate": 680696,
+      "qualityLabel": "360p"
+    },
+    "22": {
+      "bitrate": 2399250,
+      "qualityLabel": "720p"
+    },
+    "299": {
+      "bitrate": 6668246,
+      "qualityLabel": "1080p50"
+    },
+    "303": {
+      "bitrate": 5169328,
+      "qualityLabel": "1080p50"
+    },
+    "399": {
+      "bitrate": 2746932,
+      "qualityLabel": "1080p50"
+    },
+    "136": {
+      "bitrate": 8142618,
+      "qualityLabel": "720p"
+    },
+    "247": {
+      "bitrate": 1639271,
+      "qualityLabel": "720p"
+    },
+    "298": {
+      "bitrate": 3121043,
+      "qualityLabel": "720p50"
+    },
+    "302": {
+      "bitrate": 3089051,
+      "qualityLabel": "720p50"
+    },
+    "398": {
+      "bitrate": 1646434,
+      "qualityLabel": "720p50"
+    },
+    "135": {
+      "bitrate": 1057984,
+      "qualityLabel": "480p"
+    },
+    "244": {
+      "bitrate": 893504,
+      "qualityLabel": "480p"
+    },
+    "397": {
+      "bitrate": 835890,
+      "qualityLabel": "480p"
+    },
+    "134": {
+      "bitrate": 642372,
+      "qualityLabel": "360p"
+    },
+    "243": {
+      "bitrate": 548942,
+      "qualityLabel": "360p"
+    },
+    "396": {
+      "bitrate": 462523,
+      "qualityLabel": "360p"
+    },
+    "133": {
+      "bitrate": 341625,
+      "qualityLabel": "240p"
+    },
+    "242": {
+      "bitrate": 251425,
+      "qualityLabel": "240p"
+    },
+    "395": {
+      "bitrate": 241588,
+      "qualityLabel": "240p"
+    },
+    "160": {
+      "bitrate": 116596,
+      "qualityLabel": "144p"
+    },
+    "278": {
+      "bitrate": 107890,
+      "qualityLabel": "144p"
+    },
+    "394": {
+      "bitrate": 104528,
+      "qualityLabel": "144p"
+    }
+  },
+  "NisfIUglozc": {
+    "18": {
+      "bitrate": 579678,
+      "qualityLabel": "360p"
+    },
+    "22": {
+      "bitrate": 788212,
+      "qualityLabel": "720p"
+    },
+    "137": {
+      "bitrate": 4569145,
+      "qualityLabel": "1080p"
+    },
+    "248": {
+      "bitrate": 2695936,
+      "qualityLabel": "1080p"
+    },
+    "136": {
+      "bitrate": 1861036,
+      "qualityLabel": "720p"
+    },
+    "247": {
+      "bitrate": 1513252,
+      "qualityLabel": "720p"
+    },
+    "135": {
+      "bitrate": 881105,
+      "qualityLabel": "480p"
+    },
+    "244": {
+      "bitrate": 760862,
+      "qualityLabel": "480p"
+    },
+    "134": {
+      "bitrate": 636148,
+      "qualityLabel": "360p"
+    },
+    "243": {
+      "bitrate": 413028,
+      "qualityLabel": "360p"
+    },
+    "133": {
+      "bitrate": 300552,
+      "qualityLabel": "240p"
+    },
+    "242": {
+      "bitrate": 228051,
+      "qualityLabel": "240p"
+    },
+    "160": {
+      "bitrate": 116872,
+      "qualityLabel": "144p"
+    },
+    "278": {
+      "bitrate": 113670,
+      "qualityLabel": "144p"
+    }
+  },
+  "nqwjGaxqDMA": {
+    "18": {
+      "bitrate": 504115,
+      "qualityLabel": "360p"
+    },
+    "22": {
+      "bitrate": 525648,
+      "qualityLabel": "720p"
+    },
+    "313": {
+      "bitrate": 17758327,
+      "qualityLabel": "2160p"
+    },
+    "271": {
+      "bitrate": 8870118,
+      "qualityLabel": "1440p"
+    },
+    "137": {
+      "bitrate": 4738846,
+      "qualityLabel": "1080p"
+    },
+    "248": {
+      "bitrate": 2697442,
+      "qualityLabel": "1080p"
+    },
+    "136": {
+      "bitrate": 1376623,
+      "qualityLabel": "720p"
+    },
+    "247": {
+      "bitrate": 1518506,
+      "qualityLabel": "720p"
+    },
+    "135": {
+      "bitrate": 964063,
+      "qualityLabel": "480p"
+    },
+    "244": {
+      "bitrate": 767773,
+      "qualityLabel": "480p"
+    },
+    "134": {
+      "bitrate": 593754,
+      "qualityLabel": "360p"
+    },
+    "243": {
+      "bitrate": 415346,
+      "qualityLabel": "360p"
+    },
+    "133": {
+      "bitrate": 245150,
+      "qualityLabel": "240p"
+    },
+    "242": {
+      "bitrate": 226199,
+      "qualityLabel": "240p"
+    },
+    "160": {
+      "bitrate": 111111,
+      "qualityLabel": "144p"
+    },
+    "278": {
+      "bitrate": 97478,
+      "qualityLabel": "144p"
+    }
+  },
+  "QLJzjp1n5X4": {
+    "18": {
+      "bitrate": 417509,
+      "qualityLabel": "360p"
+    },
+    "22": {
+      "bitrate": 430265,
+      "qualityLabel": "720p"
+    },
+    "137": {
+      "bitrate": 3770508,
+      "qualityLabel": "1080p"
+    },
+    "248": {
+      "bitrate": 2672352,
+      "qualityLabel": "1080p"
+    },
+    "399": {
+      "bitrate": 2304432,
+      "qualityLabel": "1080p"
+    },
+    "136": {
+      "bitrate": 1111062,
+      "qualityLabel": "720p"
+    },
+    "247": {
+      "bitrate": 1260070,
+      "qualityLabel": "720p"
+    },
+    "398": {
+      "bitrate": 1300816,
+      "qualityLabel": "720p"
+    },
+    "135": {
+      "bitrate": 787297,
+      "qualityLabel": "480p"
+    },
+    "244": {
+      "bitrate": 748482,
+      "qualityLabel": "480p"
+    },
+    "397": {
+      "bitrate": 697828,
+      "qualityLabel": "480p"
+    },
+    "134": {
+      "bitrate": 543531,
+      "qualityLabel": "360p"
+    },
+    "243": {
+      "bitrate": 410924,
+      "qualityLabel": "360p"
+    },
+    "396": {
+      "bitrate": 389940,
+      "qualityLabel": "360p"
+    },
+    "133": {
+      "bitrate": 282924,
+      "qualityLabel": "240p"
+    },
+    "242": {
+      "bitrate": 225016,
+      "qualityLabel": "240p"
+    },
+    "395": {
+      "bitrate": 173942,
+      "qualityLabel": "240p"
+    },
+    "160": {
+      "bitrate": 113064,
+      "qualityLabel": "144p"
+    },
+    "278": {
+      "bitrate": 108134,
+      "qualityLabel": "144p"
+    },
+    "394": {
+      "bitrate": 93844,
+      "qualityLabel": "144p"
+    }
+  },
+  "d_SHgEul5DY": {
+    "18": {
+      "bitrate": 392424,
+      "qualityLabel": "360p"
+    },
+    "22": {
+      "bitrate": 398407,
+      "qualityLabel": "720p"
+    },
+    "137": {
+      "bitrate": 3670856,
+      "qualityLabel": "1080p"
+    },
+    "248": {
+      "bitrate": 2811051,
+      "qualityLabel": "1080p"
+    },
+    "399": {
+      "bitrate": 1972433,
+      "qualityLabel": "1080p"
+    },
+    "136": {
+      "bitrate": 1040020,
+      "qualityLabel": "720p"
+    },
+    "247": {
+      "bitrate": 2084363,
+      "qualityLabel": "720p"
+    },
+    "398": {
+      "bitrate": 1135915,
+      "qualityLabel": "720p"
+    },
+    "135": {
+      "bitrate": 653294,
+      "qualityLabel": "480p"
+    },
+    "244": {
+      "bitrate": 1244990,
+      "qualityLabel": "480p"
+    },
+    "397": {
+      "bitrate": 609377,
+      "qualityLabel": "480p"
+    },
+    "134": {
+      "bitrate": 502457,
+      "qualityLabel": "360p"
+    },
+    "243": {
+      "bitrate": 707690,
+      "qualityLabel": "360p"
+    },
+    "396": {
+      "bitrate": 340894,
+      "qualityLabel": "360p"
+    },
+    "133": {
+      "bitrate": 257814,
+      "qualityLabel": "240p"
+    },
+    "242": {
+      "bitrate": 334145,
+      "qualityLabel": "240p"
+    },
+    "395": {
+      "bitrate": 175726,
+      "qualityLabel": "240p"
+    },
+    "160": {
+      "bitrate": 115292,
+      "qualityLabel": "144p"
+    },
+    "278": {
+      "bitrate": 146200,
+      "qualityLabel": "144p"
+    },
+    "394": {
+      "bitrate": 99038,
+      "qualityLabel": "144p"
+    }
+  },
+  "fsCoFYI6GLk": {
+    "18": {
+      "bitrate": 242186,
+      "qualityLabel": "360p"
+    },
+    "22": {
+      "bitrate": 869441,
+      "qualityLabel": "720p"
+    },
+    "136": {
+      "bitrate": 1754070,
+      "qualityLabel": "720p"
+    },
+    "247": {
+      "bitrate": 2790196,
+      "qualityLabel": "720p"
+    },
+    "135": {
+      "bitrate": 836857,
+      "qualityLabel": "480p"
+    },
+    "244": {
+      "bitrate": 904961,
+      "qualityLabel": "480p"
+    },
+    "134": {
+      "bitrate": 471129,
+      "qualityLabel": "360p"
+    },
+    "243": {
+      "bitrate": 489993,
+      "qualityLabel": "360p"
+    },
+    "133": {
+      "bitrate": 229705,
+      "qualityLabel": "240p"
+    },
+    "242": {
+      "bitrate": 230496,
+      "qualityLabel": "240p"
+    },
+    "160": {
+      "bitrate": 83988,
+      "qualityLabel": "144p"
+    },
+    "278": {
+      "bitrate": 108867,
+      "qualityLabel": "144p"
+    }
+  },
+  "hvxGYK2Oqto": {
+    "18": {
+      "bitrate": 249347,
+      "qualityLabel": "360p"
+    },
+    "22": {
+      "bitrate": 1039853,
+      "qualityLabel": "720p"
+    },
+    "136": {
+      "bitrate": 1996977,
+      "qualityLabel": "720p"
+    },
+    "247": {
+      "bitrate": 1459048,
+      "qualityLabel": "720p"
+    },
+    "135": {
+      "bitrate": 1108496,
+      "qualityLabel": "480p"
+    },
+    "244": {
+      "bitrate": 705444,
+      "qualityLabel": "480p"
+    },
+    "134": {
+      "bitrate": 489134,
+      "qualityLabel": "360p"
+    },
+    "243": {
+      "bitrate": 392104,
+      "qualityLabel": "360p"
+    },
+    "133": {
+      "bitrate": 266971,
+      "qualityLabel": "240p"
+    },
+    "242": {
+      "bitrate": 191761,
+      "qualityLabel": "240p"
+    },
+    "160": {
+      "bitrate": 133323,
+      "qualityLabel": "144p"
+    },
+    "278": {
+      "bitrate": 97780,
+      "qualityLabel": "144p"
+    }
+  },
+  "iPgYplU2u6Q": {
+    "18": {
+      "bitrate": 497684,
+      "qualityLabel": "360p"
+    },
+    "22": {
+      "bitrate": 1647922,
+      "qualityLabel": "720p"
+    },
+    "137": {
+      "bitrate": 4450881,
+      "qualityLabel": "1080p"
+    },
+    "248": {
+      "bitrate": 2674372,
+      "qualityLabel": "1080p"
+    },
+    "136": {
+      "bitrate": 1628672,
+      "qualityLabel": "720p"
+    },
+    "247": {
+      "bitrate": 1519224,
+      "qualityLabel": "720p"
+    },
+    "135": {
+      "bitrate": 927580,
+      "qualityLabel": "480p"
+    },
+    "244": {
+      "bitrate": 762124,
+      "qualityLabel": "480p"
+    },
+    "134": {
+      "bitrate": 658553,
+      "qualityLabel": "360p"
+    },
+    "243": {
+      "bitrate": 415364,
+      "qualityLabel": "360p"
+    },
+    "133": {
+      "bitrate": 394251,
+      "qualityLabel": "240p"
+    },
+    "242": {
+      "bitrate": 229552,
+      "qualityLabel": "240p"
+    },
+    "160": {
+      "bitrate": 121106,
+      "qualityLabel": "144p"
+    },
+    "278": {
+      "bitrate": 111106,
+      "qualityLabel": "144p"
+    }
+  },
+  "LjhVENuPptc": {
+    "18": {
+      "bitrate": 302210,
+      "qualityLabel": "360p"
+    },
+    "22": {
+      "bitrate": 687866,
+      "qualityLabel": "720p"
+    },
+    "136": {
+      "bitrate": 1743346,
+      "qualityLabel": "720p"
+    },
+    "247": {
+      "bitrate": 1025630,
+      "qualityLabel": "720p"
+    },
+    "135": {
+      "bitrate": 1023232,
+      "qualityLabel": "480p"
+    },
+    "244": {
+      "bitrate": 573010,
+      "qualityLabel": "480p"
+    },
+    "134": {
+      "bitrate": 574718,
+      "qualityLabel": "360p"
+    },
+    "243": {
+      "bitrate": 367127,
+      "qualityLabel": "360p"
+    },
+    "133": {
+      "bitrate": 281796,
+      "qualityLabel": "240p"
+    },
+    "242": {
+      "bitrate": 189688,
+      "qualityLabel": "240p"
+    },
+    "160": {
+      "bitrate": 120583,
+      "qualityLabel": "144p"
+    },
+    "278": {
+      "bitrate": 88191,
+      "qualityLabel": "144p"
+    }
+  },
+  "oIaIejhTRy0": {
+    "18": {
+      "bitrate": 574047,
+      "qualityLabel": "360p"
+    },
+    "22": {
+      "bitrate": 1327153,
+      "qualityLabel": "720p"
+    },
+    "299": {
+      "bitrate": 3858125,
+      "qualityLabel": "1080p60"
+    },
+    "303": {
+      "bitrate": 4420702,
+      "qualityLabel": "1080p60"
+    },
+    "136": {
+      "bitrate": 2160476,
+      "qualityLabel": "720p"
+    },
+    "247": {
+      "bitrate": 1515665,
+      "qualityLabel": "720p"
+    },
+    "298": {
+      "bitrate": 1424324,
+      "qualityLabel": "720p60"
+    },
+    "302": {
+      "bitrate": 2653186,
+      "qualityLabel": "720p60"
+    },
+    "135": {
+      "bitrate": 779697,
+      "qualityLabel": "480p"
+    },
+    "244": {
+      "bitrate": 729289,
+      "qualityLabel": "480p"
+    },
+    "134": {
+      "bitrate": 609365,
+      "qualityLabel": "360p"
+    },
+    "243": {
+      "bitrate": 409550,
+      "qualityLabel": "360p"
+    },
+    "133": {
+      "bitrate": 280407,
+      "qualityLabel": "240p"
+    },
+    "242": {
+      "bitrate": 224629,
+      "qualityLabel": "240p"
+    },
+    "160": {
+      "bitrate": 111662,
+      "qualityLabel": "144p"
+    },
+    "278": {
+      "bitrate": 110182,
+      "qualityLabel": "144p"
+    }
+  },
+  "oZei5FnBsLI": {
+    "18": {
+      "bitrate": 287404,
+      "qualityLabel": "360p"
+    },
+    "22": {
+      "bitrate": 891084,
+      "qualityLabel": "720p"
+    },
+    "136": {
+      "bitrate": 2414918,
+      "qualityLabel": "720p"
+    },
+    "247": {
+      "bitrate": 2320435,
+      "qualityLabel": "720p"
+    },
+    "135": {
+      "bitrate": 1156204,
+      "qualityLabel": "480p"
+    },
+    "244": {
+      "bitrate": 1194443,
+      "qualityLabel": "480p"
+    },
+    "134": {
+      "bitrate": 625995,
+      "qualityLabel": "360p"
+    },
+    "243": {
+      "bitrate": 730281,
+      "qualityLabel": "360p"
+    },
+    "133": {
+      "bitrate": 269350,
+      "qualityLabel": "240p"
+    },
+    "242": {
+      "bitrate": 379136,
+      "qualityLabel": "240p"
+    },
+    "160": {
+      "bitrate": 115398,
+      "qualityLabel": "144p"
+    },
+    "278": {
+      "bitrate": 169329,
+      "qualityLabel": "144p"
+    }
+  },
+  "zi6JrVdN4dE": {
+    "18": {
+      "bitrate": 168952,
+      "qualityLabel": "360p"
+    },
+    "22": {
+      "bitrate": 365254,
+      "qualityLabel": "720p"
+    },
+    "136": {
+      "bitrate": 944041,
+      "qualityLabel": "720p"
+    },
+    "247": {
+      "bitrate": 884339,
+      "qualityLabel": "720p"
+    },
+    "135": {
+      "bitrate": 593043,
+      "qualityLabel": "480p"
+    },
+    "244": {
+      "bitrate": 507086,
+      "qualityLabel": "480p"
+    },
+    "134": {
+      "bitrate": 397006,
+      "qualityLabel": "360p"
+    },
+    "243": {
+      "bitrate": 322915,
+      "qualityLabel": "360p"
+    },
+    "133": {
+      "bitrate": 239600,
+      "qualityLabel": "240p"
+    },
+    "242": {
+      "bitrate": 184640,
+      "qualityLabel": "240p"
+    },
+    "160": {
+      "bitrate": 102824,
+      "qualityLabel": "144p"
+    },
+    "278": {
+      "bitrate": 90552,
+      "qualityLabel": "144p"
+    }
+  },
+  "SegxEqthbbk": {
+    "18": {
+      "bitrate": 423035,
+      "qualityLabel": "360p"
+    },
+    "22": {
+      "bitrate": 1325958,
+      "qualityLabel": "720p"
+    },
+    "136": {
+      "bitrate": 1696673,
+      "qualityLabel": "720p"
+    },
+    "247": {
+      "bitrate": 1491320,
+      "qualityLabel": "720p"
+    },
+    "135": {
+      "bitrate": 588802,
+      "qualityLabel": "480p"
+    },
+    "244": {
+      "bitrate": 726830,
+      "qualityLabel": "480p"
+    },
+    "134": {
+      "bitrate": 408888,
+      "qualityLabel": "360p"
+    },
+    "243": {
+      "bitrate": 409191,
+      "qualityLabel": "360p"
+    },
+    "133": {
+      "bitrate": 236184,
+      "qualityLabel": "240p"
+    },
+    "242": {
+      "bitrate": 192343,
+      "qualityLabel": "240p"
+    },
+    "160": {
+      "bitrate": 111131,
+      "qualityLabel": "144p"
+    },
+    "278": {
+      "bitrate": 92221,
+      "qualityLabel": "144p"
+    }
+  },
+  "HIQ1kDKiBgs": {
+    "18": {
+      "bitrate": 561286,
+      "qualityLabel": "360p"
+    },
+    "22": {
+      "bitrate": 1253893,
+      "qualityLabel": "720p"
+    },
+    "136": {
+      "bitrate": 2321891,
+      "qualityLabel": "720p"
+    },
+    "247": {
+      "bitrate": 1541621,
+      "qualityLabel": "720p"
+    },
+    "135": {
+      "bitrate": 1158552,
+      "qualityLabel": "480p"
+    },
+    "244": {
+      "bitrate": 775131,
+      "qualityLabel": "480p"
+    },
+    "134": {
+      "bitrate": 635369,
+      "qualityLabel": "360p"
+    },
+    "243": {
+      "bitrate": 470495,
+      "qualityLabel": "360p"
+    },
+    "133": {
+      "bitrate": 246147,
+      "qualityLabel": "240p"
+    },
+    "242": {
+      "bitrate": 220563,
+      "qualityLabel": "240p"
+    },
+    "160": {
+      "bitrate": 111605,
+      "qualityLabel": "144p"
+    },
+    "278": {
+      "bitrate": 102747,
+      "qualityLabel": "144p"
+    }
+  }
+}
