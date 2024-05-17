@@ -26,7 +26,7 @@ def reset_main_folders():
 
 	LOGS_FOLDER = "data/logFiles/"
 	JSON_FOLDER = "data/jsonFiles/"
-	GRAPHS_FOLDER = "data/graphs/"
+	# GRAPHS_FOLDER = "data/graphs/"
 	CSV_FOLDER = "data/csvFiles/"
 
 	VIDEO_INFO_JSON_FILE = "video_info.json"
@@ -35,25 +35,11 @@ def reset_main_folders():
 def updateFolderLocations(video_list_folder, log_type):
 	global LOGS_FOLDER, JSON_FOLDER, GRAPHS_FOLDER, CSV_FOLDER, VIDEO_INFO_JSON_FILE
 
-	GRAPHS_FOLDER += (video_list_folder + "/")
 	LOGS_FOLDER += (video_list_folder + "/")
 	JSON_FOLDER += (video_list_folder + "/")
 	CSV_FOLDER += (video_list_folder + "/")
 
 	VIDEO_INFO_JSON_FILE = LOGS_FOLDER + VIDEO_INFO_JSON_FILE
-
-	if (not os.path.isdir(GRAPHS_FOLDER)):
-		os.mkdir(GRAPHS_FOLDER)
-	
-	if (not os.path.isdir(GRAPHS_FOLDER + "/" + log_type)):
-		os.mkdir(GRAPHS_FOLDER + "/" + log_type)
-		os.mkdir(GRAPHS_FOLDER + "/" + log_type + "/all")
-	
-	if (not os.path.isdir(GRAPHS_FOLDER + "/" + log_type + "/frame_length")):
-		os.mkdir(GRAPHS_FOLDER + "/" + log_type + "/frame_length")
-
-	if (not os.path.isdir(GRAPHS_FOLDER + "/" + log_type + "/buffer_flow")):
-		os.mkdir(GRAPHS_FOLDER + "/" + log_type + "/buffer_flow")
 	
 	if (not os.path.isdir(JSON_FOLDER)):
 		os.mkdir(JSON_FOLDER)
