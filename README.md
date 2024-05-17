@@ -91,7 +91,8 @@ This section provides step-by-step instructions on how to use the application lo
 
 3. Open the terminal and run the following command to generate **tcp** and **quic** files inside the **jsonFiles** folder. 
 ```
-.\scripts\get_json.py slot dynamic-very-low
+python .\scripts\get_json.py slot dynamic-very-low
+python .\scripts\dynamic-to-64-256.py
 ```
 
 4. Run the following command in the terminal to generate both **tcp** and **quic** QoE files under the **csvFiles** folder. 
